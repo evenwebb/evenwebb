@@ -1,0 +1,11 @@
+{
+  "username": "evenwebb",
+  "excludeRepos": ["evenwebb/evenwebb"],
+  "excludeForkedRepos": true,
+  "excludeArchivedRepos": true,
+  "maxRecentCommits": 10,
+  "maxRecentlyUpdatedRepos": 6,
+  "maxRecentActivity": 8,
+  "commitMessageMaxLength": 60,
+  "timeFormat": "relative"
+}
