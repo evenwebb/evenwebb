@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 19 stars · 21 repos · 21 contributions this week · Updated Feb 14, 2026, 05:52 PM
+⭐ 19 stars · 21 repos · 22 contributions this week · Updated Feb 14, 2026, 05:57 PM
 
 ---
 ## Recent Commits
@@ -34,6 +34,7 @@
 
 ---
 ## Recent Activity
+- Pushed to [evenwebb/evenwebb](https://github.com/evenwebb/evenwebb)
 - Pushed to [evenwebb/OctoCal](https://github.com/evenwebb/OctoCal)
 - Starred [evenwebb/AliClaimer](https://github.com/evenwebb/AliClaimer)
 - Pushed to [evenwebb/AliClaimer](https://github.com/evenwebb/AliClaimer)
@@ -41,7 +42,6 @@
 - Pushed to [evenwebb/unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)
 - Starred [DartSteven/Nutify](https://github.com/DartSteven/Nutify)
 - Starred [evenwebb/wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)
-- Starred [evenwebb/ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter)
 
 ---
 # 📊 GitHub Stats
