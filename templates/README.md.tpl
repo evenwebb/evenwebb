@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Steven;Building+things+on+the+web&center=true&width=500&color=58A6FF&font=Fira+Code)](https://git.io/typing-svg)
 
-**Short one-liner about what you do.**
+**A nerd from Cornwall, UK.**
 
 ---
 </div>
