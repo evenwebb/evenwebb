@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Steven;Building+things+on+the+web&center=true&width=500&color=58A6FF&font=Fira+Code)](https://git.io/typing-svg)
 
-**Short one-liner about what you do.**
+**A nerd from Cornwall, UK.**
 
 ---
 </div>
 
 ## Quick Stats
-⭐ 19 stars · 21 repos · 22 contributions this week · Updated Feb 14, 2026, 06:49 PM
+⭐ 19 stars · 21 repos · 23 contributions this week · Updated Feb 14, 2026, 08:22 PM
 
 ---
 ## Recent Commits
