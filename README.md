@@ -8,20 +8,20 @@
 </div>
 
 ## Quick Stats
-⭐ 19 stars · 24 repos · 43 contributions this week · Updated Feb 15, 2026, 06:41 PM
+⭐ 19 stars · 24 repos · 38 contributions this week · Updated Feb 16, 2026, 02:34 AM
 
 ---
 ## Recent Commits
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/f60edc59a8318577416fab8eba5237364fe45bf3): Merge branch 'main' of https://github.com/evenwebb/github-ac… · 4h ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/173807f24cf1eb633f4bd26fe7852b8775613509): Update collect.py · 4h ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/7713bbfd9dab9f787745af76a94caded69641cc5): Update collect-and-deploy.yml · 4h ago
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/4bd623f4f3eff2f7351989bbdb1963013a3737bf): update · 5h ago
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/9cd1906b2cf75284a5ad56424f42bdc7a3293953): Polish README, fix banner URLs & update docs · 5h ago
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/8a3d63602c21227afe26699a7ea670a4926cbd77): Add SEO meta tags and JSON-LD generation · 5h ago
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/3165e62c967af2e05e286030adff477edfdb416e): Add referral CTA to site and update metadata · 5h ago
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/1a41fc1a98ac940592836e5ab59aa45ed2bf39b8): Add event filters, dashboard, and categorization · 5h ago
-- [field-data-collector](https://github.com/evenwebb/field-data-collector/commit/61a266ba7e0cbe63cceae5252dc9d688d56a1c8c): Delete scripts directory · 20h ago
-- [field-data-collector](https://github.com/evenwebb/field-data-collector/commit/f812cd9d18e0d2e2c798cd90de38ab904694afb5): initial commit · 20h ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/f60edc59a8318577416fab8eba5237364fe45bf3): Merge branch 'main' of https://github.com/evenwebb/github-ac… · 11h ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/173807f24cf1eb633f4bd26fe7852b8775613509): Update collect.py · 11h ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/7713bbfd9dab9f787745af76a94caded69641cc5): Update collect-and-deploy.yml · 12h ago
+- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/4bd623f4f3eff2f7351989bbdb1963013a3737bf): update · 13h ago
+- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/9cd1906b2cf75284a5ad56424f42bdc7a3293953): Polish README, fix banner URLs & update docs · 13h ago
+- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/8a3d63602c21227afe26699a7ea670a4926cbd77): Add SEO meta tags and JSON-LD generation · 13h ago
+- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/3165e62c967af2e05e286030adff477edfdb416e): Add referral CTA to site and update metadata · 13h ago
+- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/1a41fc1a98ac940592836e5ab59aa45ed2bf39b8): Add event filters, dashboard, and categorization · 13h ago
+- [field-data-collector](https://github.com/evenwebb/field-data-collector/commit/61a266ba7e0cbe63cceae5252dc9d688d56a1c8c): Delete scripts directory · 1d ago
+- [field-data-collector](https://github.com/evenwebb/field-data-collector/commit/f812cd9d18e0d2e2c798cd90de38ab904694afb5): initial commit · 1d ago
 
 ---
 ## Recently Updated Repos
