@@ -8,11 +8,11 @@
 </div>
 
 ## Quick Stats
-⭐ 19 stars · 24 repos · 35 contributions this week · Updated Feb 17, 2026, 02:31 AM
+⭐ 19 stars · 24 repos · 36 contributions this week · Updated Feb 17, 2026, 07:04 AM
 
 ---
 ## Recent Commits
-- [MemoryBook](https://github.com/evenwebb/MemoryBook/commit/c9366358086addf4090afbcafc8b47aa59848f63): Merge pull request #1 from evenwebb/claude/improve-codebase-… · 16h ago
+- [MemoryBook](https://github.com/evenwebb/MemoryBook/commit/c9366358086addf4090afbcafc8b47aa59848f63): Merge pull request #1 from evenwebb/claude/improve-codebase-… · 21h ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/f60edc59a8318577416fab8eba5237364fe45bf3): Merge branch 'main' of https://github.com/evenwebb/github-ac… · 1d ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/173807f24cf1eb633f4bd26fe7852b8775613509): Update collect.py · 1d ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/7713bbfd9dab9f787745af76a94caded69641cc5): Update collect-and-deploy.yml · 1d ago
@@ -25,15 +25,16 @@
 
 ---
 ## Recently Updated Repos
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 0 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[MemoryBook](https://github.com/evenwebb/MemoryBook)** — No description · ⭐ 0 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — Never miss a Tesla Owners UK event — track days, meetups, AG… · ⭐ 0 · Python
 - **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 0 · Python
 
 ---
 ## Recent Activity
+- Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
 - Starred [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
 - Starred [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper)
 - Starred [ideal-postcodes/postcodes.io](https://github.com/ideal-postcodes/postcodes.io)
@@ -41,7 +42,6 @@
 - Starred [codelucas/newspaper](https://github.com/codelucas/newspaper)
 - Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
 - Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-- Pushed to [evenwebb/MemoryBook](https://github.com/evenwebb/MemoryBook)
 
 ---
 # 📊 GitHub Stats
