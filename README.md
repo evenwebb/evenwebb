@@ -8,11 +8,11 @@
 </div>
 
 ## Quick Stats
-⭐ 19 stars · 24 repos · 41 contributions this week · Updated Feb 16, 2026, 06:50 PM
+⭐ 19 stars · 24 repos · 35 contributions this week · Updated Feb 17, 2026, 02:31 AM
 
 ---
 ## Recent Commits
-- [MemoryBook](https://github.com/evenwebb/MemoryBook/commit/c9366358086addf4090afbcafc8b47aa59848f63): Merge pull request #1 from evenwebb/claude/improve-codebase-… · 8h ago
+- [MemoryBook](https://github.com/evenwebb/MemoryBook/commit/c9366358086addf4090afbcafc8b47aa59848f63): Merge pull request #1 from evenwebb/claude/improve-codebase-… · 16h ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/f60edc59a8318577416fab8eba5237364fe45bf3): Merge branch 'main' of https://github.com/evenwebb/github-ac… · 1d ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/173807f24cf1eb633f4bd26fe7852b8775613509): Update collect.py · 1d ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/7713bbfd9dab9f787745af76a94caded69641cc5): Update collect-and-deploy.yml · 1d ago
@@ -21,7 +21,7 @@
 - [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/8a3d63602c21227afe26699a7ea670a4926cbd77): Add SEO meta tags and JSON-LD generation · 1d ago
 - [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/3165e62c967af2e05e286030adff477edfdb416e): Add referral CTA to site and update metadata · 1d ago
 - [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/1a41fc1a98ac940592836e5ab59aa45ed2bf39b8): Add event filters, dashboard, and categorization · 1d ago
-- [field-data-collector](https://github.com/evenwebb/field-data-collector/commit/61a266ba7e0cbe63cceae5252dc9d688d56a1c8c): Delete scripts directory · 1d ago
+- [field-data-collector](https://github.com/evenwebb/field-data-collector/commit/61a266ba7e0cbe63cceae5252dc9d688d56a1c8c): Delete scripts directory · 2d ago
 
 ---
 ## Recently Updated Repos
@@ -34,14 +34,14 @@
 
 ---
 ## Recent Activity
+- Starred [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
+- Starred [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper)
+- Starred [ideal-postcodes/postcodes.io](https://github.com/ideal-postcodes/postcodes.io)
+- Starred [TrunkRecorder/trunk-recorder](https://github.com/TrunkRecorder/trunk-recorder)
+- Starred [codelucas/newspaper](https://github.com/codelucas/newspaper)
+- Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+- Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 - Pushed to [evenwebb/MemoryBook](https://github.com/evenwebb/MemoryBook)
-- Opened PR in [evenwebb/MemoryBook](https://github.com/evenwebb/MemoryBook)
-- Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
-- Pushed to [evenwebb/tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)
-- Pushed to [evenwebb/field-data-collector](https://github.com/evenwebb/field-data-collector)
-- Pushed to [evenwebb/evenwebb](https://github.com/evenwebb/evenwebb)
-- Pushed to [evenwebb/OctoCal](https://github.com/evenwebb/OctoCal)
-- Starred [evenwebb/AliClaimer](https://github.com/evenwebb/AliClaimer)
 
 ---
 # 📊 GitHub Stats
