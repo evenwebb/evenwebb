@@ -8,13 +8,13 @@
 </div>
 
 ## Quick Stats
-⭐ 18 stars · 24 repos · 39 contributions this week · Updated Feb 19, 2026, 02:33 AM
+⭐ 18 stars · 24 repos · 40 contributions this week · Updated Feb 19, 2026, 07:05 AM
 
 ---
 ## Recent Commits
-- [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/54092818a6b507625ca7a03b9ca7fa84d1c1143f): Delete calendar-scraper-template directory · 2h ago
-- [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/7bf5ef48177745a2486c84d7a579ee56813e575c): initial commit · 14h ago
-- [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/31b6fe8085f1710a45014418b8ffc4f6135b468e): Initial commit · 14h ago
+- [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/54092818a6b507625ca7a03b9ca7fa84d1c1143f): Delete calendar-scraper-template directory · 7h ago
+- [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/7bf5ef48177745a2486c84d7a579ee56813e575c): initial commit · 18h ago
+- [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/31b6fe8085f1710a45014418b8ffc4f6135b468e): Initial commit · 18h ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/8048f88c0aef71b31f810bd301cfc98853d7cf90): Add workflow auditor, Docker support, and docs · 1d ago
 - [MemoryBook](https://github.com/evenwebb/MemoryBook/commit/c9366358086addf4090afbcafc8b47aa59848f63): Merge pull request #1 from evenwebb/claude/improve-codebase-… · 2d ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/f60edc59a8318577416fab8eba5237364fe45bf3): Merge branch 'main' of https://github.com/evenwebb/github-ac… · 3d ago
@@ -25,17 +25,17 @@
 
 ---
 ## Recently Updated Repos
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 0 · Python
 - **[calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template)** — No description · ⭐ 0 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 0 · Python
 - **[MemoryBook](https://github.com/evenwebb/MemoryBook)** — No description · ⭐ 0 · Python
 
 ---
 ## Recent Activity
-- Pushed to [evenwebb/calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template)
 - Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
+- Pushed to [evenwebb/calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template)
 - Starred [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
 - Starred [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper)
 - Starred [ideal-postcodes/postcodes.io](https://github.com/ideal-postcodes/postcodes.io)
