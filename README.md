@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 18 stars · 24 repos · 21 contributions this week · Updated Feb 22, 2026, 12:57 PM
+⭐ 18 stars · 24 repos · 14 contributions this week · Updated Feb 22, 2026, 06:40 PM
 
 ---
 ## Recent Commits
@@ -17,18 +17,18 @@
 - [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/31b6fe8085f1710a45014418b8ffc4f6135b468e): Initial commit · 4d ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/8048f88c0aef71b31f810bd301cfc98853d7cf90): Add workflow auditor, Docker support, and docs · 5d ago
 - [MemoryBook](https://github.com/evenwebb/MemoryBook/commit/c9366358086addf4090afbcafc8b47aa59848f63): Merge pull request #1 from evenwebb/claude/improve-codebase-… · 6d ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/f60edc59a8318577416fab8eba5237364fe45bf3): Merge branch 'main' of https://github.com/evenwebb/github-ac… · 6d ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/173807f24cf1eb633f4bd26fe7852b8775613509): Update collect.py · 6d ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/7713bbfd9dab9f787745af76a94caded69641cc5): Update collect-and-deploy.yml · 6d ago
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/4bd623f4f3eff2f7351989bbdb1963013a3737bf): update · 6d ago
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/9cd1906b2cf75284a5ad56424f42bdc7a3293953): Polish README, fix banner URLs & update docs · 6d ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/f60edc59a8318577416fab8eba5237364fe45bf3): Merge branch 'main' of https://github.com/evenwebb/github-ac… · 1w ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/173807f24cf1eb633f4bd26fe7852b8775613509): Update collect.py · 1w ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/7713bbfd9dab9f787745af76a94caded69641cc5): Update collect-and-deploy.yml · 1w ago
+- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/4bd623f4f3eff2f7351989bbdb1963013a3737bf): update · 1w ago
+- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/9cd1906b2cf75284a5ad56424f42bdc7a3293953): Polish README, fix banner URLs & update docs · 1w ago
 
 ---
 ## Recently Updated Repos
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
 - **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 0 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template)** — No description · ⭐ 0 · Python
 - **[MemoryBook](https://github.com/evenwebb/MemoryBook)** — No description · ⭐ 0 · Python
 
