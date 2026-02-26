@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 18 stars · 24 repos · 7 contributions this week · Updated Feb 26, 2026, 01:15 PM
+⭐ 18 stars · 24 repos · 7 contributions this week · Updated Feb 26, 2026, 06:57 PM
 
 ---
 ## Recent Commits
@@ -25,11 +25,11 @@
 
 ---
 ## Recently Updated Repos
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
 - **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 0 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — Never miss a Tesla Owners UK event — track days, meetups, AG… · ⭐ 0 · Python
 
 ---
