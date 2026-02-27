@@ -8,40 +8,40 @@
 </div>
 
 ## Quick Stats
-⭐ 18 stars · 24 repos · 7 contributions this week · Updated Feb 27, 2026, 06:59 AM
+⭐ 18 stars · 24 repos · 17 contributions this week · Updated Feb 27, 2026, 01:07 PM
 
 ---
 ## Recent Commits
-- [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/54092818a6b507625ca7a03b9ca7fa84d1c1143f): Delete calendar-scraper-template directory · 1w ago
-- [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/7bf5ef48177745a2486c84d7a579ee56813e575c): initial commit · 1w ago
-- [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/31b6fe8085f1710a45014418b8ffc4f6135b468e): Initial commit · 1w ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/8048f88c0aef71b31f810bd301cfc98853d7cf90): Add workflow auditor, Docker support, and docs · 1w ago
-- [MemoryBook](https://github.com/evenwebb/MemoryBook/commit/c9366358086addf4090afbcafc8b47aa59848f63): Merge pull request #1 from evenwebb/claude/improve-codebase-… · 1w ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/f60edc59a8318577416fab8eba5237364fe45bf3): Merge branch 'main' of https://github.com/evenwebb/github-ac… · 1w ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/173807f24cf1eb633f4bd26fe7852b8775613509): Update collect.py · 1w ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/7713bbfd9dab9f787745af76a94caded69641cc5): Update collect-and-deploy.yml · 1w ago
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/4bd623f4f3eff2f7351989bbdb1963013a3737bf): update · 1w ago
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/9cd1906b2cf75284a5ad56424f42bdc7a3293953): Polish README, fix banner URLs & update docs · 1w ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/b4d21538622948529201b599c5330b95ba3a51ed): commit · 1h ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/50b1b989c721df800789ca7130ca63b79b293cf3): commit · 2h ago
+- [wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar/commit/6da6530a45c36864073f50a8dc2e4e71b438214c): Add workflow retries, failure issue & ICS fixes · 2h ago
+- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/dcc3cd2975eb577ee9b66906ca0d8b3b6ff53604): Add workflow retries, improve ICS output & docs · 2h ago
+- [penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper/commit/288465a0a8db22c0a81ca63528d4be3f610933ab): Enhance CI, ICS formatting, and docs · 2h ago
+- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/6d50b72289b5329806106555844e2cac9bdfaba2): Add scraper retries to workflow and update README · 2h ago
+- [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/0ad532ccfcf4ea4a2041ead82f99623e899f4e16): Add scraper workflow and improve iCal output · 2h ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/23ee80b896f5ebcd13f8c7aa9e0b63ee9fc6245f): workflow: add retries, failure issue; refresh site · 2h ago
+- [field-data-collector](https://github.com/evenwebb/field-data-collector/commit/2217584e782481048e48a1117419aa02f9421ed8): Add export selection, bulk actions, offline submit · 3h ago
+- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/e4f503405d6777a28636459d4a4d03126854718a): Assemble VEVENT with local event_lines list · 3h ago
 
 ---
 ## Recently Updated Repos
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 0 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
+- **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
+- **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — What's on at White River Cinema, St Austell (WTW Cinemas) in… · ⭐ 1 · Python
+- **[calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template)** — A reusable Python template for building event scrapers that … · ⭐ 0 · Python
 - **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
-- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — Never miss a Tesla Owners UK event — track days, meetups, AG… · ⭐ 0 · Python
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
-- Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
-- Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+- Pushed to [evenwebb/wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)
+- Pushed to [evenwebb/wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)
+- Pushed to [evenwebb/stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)
+- Pushed to [evenwebb/penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)
+- Pushed to [evenwebb/cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)
 - Pushed to [evenwebb/calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template)
-- Starred [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
-- Starred [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper)
-- Starred [ideal-postcodes/postcodes.io](https://github.com/ideal-postcodes/postcodes.io)
-- Starred [TrunkRecorder/trunk-recorder](https://github.com/TrunkRecorder/trunk-recorder)
-- Starred [codelucas/newspaper](https://github.com/codelucas/newspaper)
+- Pushed to [evenwebb/field-data-collector](https://github.com/evenwebb/field-data-collector)
+- Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
 
 ---
 # 📊 GitHub Stats
