@@ -8,20 +8,20 @@
 </div>
 
 ## Quick Stats
-⭐ 18 stars · 24 repos · 17 contributions this week · Updated Feb 27, 2026, 06:51 PM
+⭐ 18 stars · 24 repos · 17 contributions this week · Updated Feb 28, 2026, 02:10 AM
 
 ---
 ## Recent Commits
-- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/b4d21538622948529201b599c5330b95ba3a51ed): commit · 7h ago
-- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/50b1b989c721df800789ca7130ca63b79b293cf3): commit · 8h ago
-- [wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar/commit/6da6530a45c36864073f50a8dc2e4e71b438214c): Add workflow retries, failure issue & ICS fixes · 8h ago
-- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/dcc3cd2975eb577ee9b66906ca0d8b3b6ff53604): Add workflow retries, improve ICS output & docs · 8h ago
-- [penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper/commit/288465a0a8db22c0a81ca63528d4be3f610933ab): Enhance CI, ICS formatting, and docs · 8h ago
-- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/6d50b72289b5329806106555844e2cac9bdfaba2): Add scraper retries to workflow and update README · 8h ago
-- [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/0ad532ccfcf4ea4a2041ead82f99623e899f4e16): Add scraper workflow and improve iCal output · 8h ago
-- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/23ee80b896f5ebcd13f8c7aa9e0b63ee9fc6245f): workflow: add retries, failure issue; refresh site · 8h ago
-- [field-data-collector](https://github.com/evenwebb/field-data-collector/commit/2217584e782481048e48a1117419aa02f9421ed8): Add export selection, bulk actions, offline submit · 9h ago
-- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/e4f503405d6777a28636459d4a4d03126854718a): Assemble VEVENT with local event_lines list · 9h ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/b4d21538622948529201b599c5330b95ba3a51ed): commit · 14h ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/50b1b989c721df800789ca7130ca63b79b293cf3): commit · 15h ago
+- [wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar/commit/6da6530a45c36864073f50a8dc2e4e71b438214c): Add workflow retries, failure issue & ICS fixes · 15h ago
+- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/dcc3cd2975eb577ee9b66906ca0d8b3b6ff53604): Add workflow retries, improve ICS output & docs · 15h ago
+- [penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper/commit/288465a0a8db22c0a81ca63528d4be3f610933ab): Enhance CI, ICS formatting, and docs · 15h ago
+- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/6d50b72289b5329806106555844e2cac9bdfaba2): Add scraper retries to workflow and update README · 15h ago
+- [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/0ad532ccfcf4ea4a2041ead82f99623e899f4e16): Add scraper workflow and improve iCal output · 15h ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/23ee80b896f5ebcd13f8c7aa9e0b63ee9fc6245f): workflow: add retries, failure issue; refresh site · 15h ago
+- [field-data-collector](https://github.com/evenwebb/field-data-collector/commit/2217584e782481048e48a1117419aa02f9421ed8): Add export selection, bulk actions, offline submit · 16h ago
+- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/e4f503405d6777a28636459d4a4d03126854718a): Assemble VEVENT with local event_lines list · 16h ago
 
 ---
 ## Recently Updated Repos
