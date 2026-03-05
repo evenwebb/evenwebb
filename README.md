@@ -8,13 +8,13 @@
 </div>
 
 ## Quick Stats
-⭐ 18 stars · 26 repos · 18 contributions this week · Updated Mar 5, 2026, 02:28 AM
+⭐ 18 stars · 26 repos · 18 contributions this week · Updated Mar 5, 2026, 06:58 AM
 
 ---
 ## Recent Commits
-- [merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar/commit/a2fe6a4d21274cc1e5e48ace08d8332e93f041ba): initial commit · 13h ago
-- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/5a0198a8b47d64a1d5a9aeb34f9de312e1aeb3a9): initial commit · 13h ago
-- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/897a75754f3f2415c18fdd409557e86d61ca9949): commit · 13h ago
+- [merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar/commit/a2fe6a4d21274cc1e5e48ace08d8332e93f041ba): initial commit · 17h ago
+- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/5a0198a8b47d64a1d5a9aeb34f9de312e1aeb3a9): initial commit · 17h ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/897a75754f3f2415c18fdd409557e86d61ca9949): commit · 18h ago
 - [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/b4d21538622948529201b599c5330b95ba3a51ed): commit · 5d ago
 - [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/50b1b989c721df800789ca7130ca63b79b293cf3): commit · 5d ago
 - [wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar/commit/6da6530a45c36864073f50a8dc2e4e71b438214c): Add workflow retries, failure issue & ICS fixes · 5d ago
@@ -25,17 +25,17 @@
 
 ---
 ## Recently Updated Repos
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 0 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)** — Scrapes upcoming film releases from Merlin Cinemas across Co… · ⭐ 0 · Python
 - **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 0 · Python
 - **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — What's on at White River Cinema, St Austell (WTW Cinemas) in… · ⭐ 1 · Python
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
-- **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
-- Pushed to [evenwebb/wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)
 - Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
+- Pushed to [evenwebb/wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)
 - Pushed to [evenwebb/wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)
 - Pushed to [evenwebb/stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)
 - Pushed to [evenwebb/penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)
