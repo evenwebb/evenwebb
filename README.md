@@ -8,10 +8,11 @@
 </div>
 
 ## Quick Stats
-⭐ 18 stars · 26 repos · 18 contributions this week · Updated Mar 5, 2026, 07:19 PM
+⭐ 18 stars · 26 repos · 19 contributions this week · Updated Mar 6, 2026, 02:26 AM
 
 ---
 ## Recent Commits
+- [OctoCal](https://github.com/evenwebb/OctoCal/commit/695fabf60652eb4a5d7140d1096c699523c8e601): Optimize scraper workflow runtime and avoid unnecessary depl… · 3h ago
 - [merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar/commit/a2fe6a4d21274cc1e5e48ace08d8332e93f041ba): initial commit · 1d ago
 - [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/5a0198a8b47d64a1d5a9aeb34f9de312e1aeb3a9): initial commit · 1d ago
 - [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/897a75754f3f2415c18fdd409557e86d61ca9949): commit · 1d ago
@@ -21,27 +22,26 @@
 - [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/dcc3cd2975eb577ee9b66906ca0d8b3b6ff53604): Add workflow retries, improve ICS output & docs · 6d ago
 - [penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper/commit/288465a0a8db22c0a81ca63528d4be3f610933ab): Enhance CI, ICS formatting, and docs · 6d ago
 - [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/6d50b72289b5329806106555844e2cac9bdfaba2): Add scraper retries to workflow and update README · 6d ago
-- [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/0ad532ccfcf4ea4a2041ead82f99623e899f4e16): Add scraper workflow and improve iCal output · 6d ago
 
 ---
 ## Recently Updated Repos
+- **[OctoCal](https://github.com/evenwebb/OctoCal)** — OctoCal automatically scrapes the Octopus Energy website for… · ⭐ 1 · HTML
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
 - **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
 - **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — What's on at White River Cinema, St Austell (WTW Cinemas) in… · ⭐ 1 · Python
-- **[merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)** — Scrapes upcoming film releases from Merlin Cinemas across Co… · ⭐ 0 · Python
 
 ---
 ## Recent Activity
+- Pushed to [evenwebb/OctoCal](https://github.com/evenwebb/OctoCal)
+- Starred [elfhosted/newtarr](https://github.com/elfhosted/newtarr)
+- Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
 - Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
 - Pushed to [evenwebb/wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)
 - Pushed to [evenwebb/wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)
 - Pushed to [evenwebb/stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)
 - Pushed to [evenwebb/penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)
-- Pushed to [evenwebb/cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)
-- Pushed to [evenwebb/calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template)
-- Pushed to [evenwebb/field-data-collector](https://github.com/evenwebb/field-data-collector)
 
 ---
 # 📊 GitHub Stats
