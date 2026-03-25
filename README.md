@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 19 stars · 26 repos · 0 contributions this week · Updated Mar 25, 2026, 01:19 PM
+⭐ 19 stars · 26 repos · 0 contributions this week · Updated Mar 25, 2026, 07:01 PM
 
 ---
 ## Recent Commits
@@ -21,16 +21,16 @@
 - [wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar/commit/6da6530a45c36864073f50a8dc2e4e71b438214c): Add workflow retries, failure issue & ICS fixes · 3w ago
 - [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/dcc3cd2975eb577ee9b66906ca0d8b3b6ff53604): Add workflow retries, improve ICS output & docs · 3w ago
 - [penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper/commit/288465a0a8db22c0a81ca63528d4be3f610933ab): Enhance CI, ICS formatting, and docs · 3w ago
-- [calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template/commit/0ad532ccfcf4ea4a2041ead82f99623e899f4e16): Add scraper workflow and improve iCal output · 3w ago
+- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/6d50b72289b5329806106555844e2cac9bdfaba2): Add scraper retries to workflow and update README · 3w ago
 
 ---
 ## Recently Updated Repos
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
 - **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
 - **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — What's on at White River Cinema, St Austell (WTW Cinemas) in… · ⭐ 2 · Python
 - **[merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)** — Scrapes upcoming film releases from Merlin Cinemas across Co… · ⭐ 0 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 
 ---
 ## Recent Activity
