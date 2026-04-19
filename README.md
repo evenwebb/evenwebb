@@ -8,16 +8,16 @@
 </div>
 
 ## Quick Stats
-⭐ 20 stars · 26 repos · 0 contributions this week · Updated Apr 18, 2026, 06:57 PM
+⭐ 20 stars · 26 repos · 0 contributions this week · Updated Apr 19, 2026, 03:19 AM
 
 ---
 ## Recent Commits
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/5e9ae5a7f68f84f8cc96474fc8b819a6fe9b8eb7): fixes and updates · 1w ago
-- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/79a51788dba5fb50d91485c31cd1e8e1ca06ee83): Update whats_on_html.yml · 1w ago
-- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/76c85291e5eb55854fd04839374cd227abfd8f39): bug fixes and html edits · 1w ago
-- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/ef8223907ffb7260022fa3be3b4f92d6a70962ba): update · 1w ago
-- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/00120c1a5504744ce52da2a7b05192bd017212b8): update · 1w ago
-- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/6f73bf0d14ff270b9c3e9cc3cecf85b7bd3381a5): update · 1w ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/5e9ae5a7f68f84f8cc96474fc8b819a6fe9b8eb7): fixes and updates · 2w ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/79a51788dba5fb50d91485c31cd1e8e1ca06ee83): Update whats_on_html.yml · 2w ago
+- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/76c85291e5eb55854fd04839374cd227abfd8f39): bug fixes and html edits · 2w ago
+- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/ef8223907ffb7260022fa3be3b4f92d6a70962ba): update · 2w ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/00120c1a5504744ce52da2a7b05192bd017212b8): update · 2w ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/6f73bf0d14ff270b9c3e9cc3cecf85b7bd3381a5): update · 2w ago
 - [penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper/commit/0e3b7c551ac750da9a1675d308f9a4240e92a077): Merge pull request #19 from evenwebb/ci/actions-node24-runti… · 2w ago
 - [penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper/commit/eded0cdc56f3fb54a6c44d731fa36ad1bd6a7e3b): ci: use Actions running on Node.js 24 (checkout v5, setup-py… · 2w ago
 - [penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper/commit/5a649cf9d6882e69dbea7858c9bdd802a8505d41): Create pytest.ini · 2w ago
@@ -34,6 +34,7 @@
 
 ---
 ## Recent Activity
+- Starred [nexmoe/VidBee](https://github.com/nexmoe/VidBee)
 - Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
 - Pushed to [evenwebb/epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)
 - Pushed to [evenwebb/wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)
@@ -41,7 +42,6 @@
 - Opened PR in [evenwebb/penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)
 - Pushed to [evenwebb/penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)
 - Starred [adsblol/feed](https://github.com/adsblol/feed)
-- Starred [evenwebb/merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)
 
 ---
 # 📊 GitHub Stats
