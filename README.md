@@ -8,17 +8,17 @@
 </div>
 
 ## Quick Stats
-⭐ 20 stars · 26 repos · 7 contributions this week · Updated Apr 22, 2026, 07:19 PM
+⭐ 20 stars · 26 repos · 7 contributions this week · Updated Apr 23, 2026, 02:56 AM
 
 ---
 ## Recent Commits
-- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/ad777f29b0e13f9bfbad3d5613441bf424e5924b): optimise the github action run · 18h ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/d4f83ee9b3af2da70ea43f8e55a14ee6d67fedf9): optimise the github action run · 18h ago
-- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/0fa3e0bdeb13ac43d1a891ff2f40d0cafc8a0b08): scrape optimisations · 18h ago
-- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/6fe1537a27b37936767612afe21cf978d26a795d): add super saver filter · 18h ago
-- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/fa22968bee595b554d7a61dffd0fed61f52528f2): updated · 18h ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/9a88b37055471e611076a58ee74bf8f25359bc55): update · 19h ago
-- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/82c6f8a0cae970d799f4376c983538d8f630c9bb): Update whats_on_scraper.py · 19h ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/ad777f29b0e13f9bfbad3d5613441bf424e5924b): optimise the github action run · 1d ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/d4f83ee9b3af2da70ea43f8e55a14ee6d67fedf9): optimise the github action run · 1d ago
+- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/0fa3e0bdeb13ac43d1a891ff2f40d0cafc8a0b08): scrape optimisations · 1d ago
+- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/6fe1537a27b37936767612afe21cf978d26a795d): add super saver filter · 1d ago
+- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/fa22968bee595b554d7a61dffd0fed61f52528f2): updated · 1d ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/9a88b37055471e611076a58ee74bf8f25359bc55): update · 1d ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/82c6f8a0cae970d799f4376c983538d8f630c9bb): Update whats_on_scraper.py · 1d ago
 - [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/5e9ae5a7f68f84f8cc96474fc8b819a6fe9b8eb7): fixes and updates · 2w ago
 - [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/79a51788dba5fb50d91485c31cd1e8e1ca06ee83): Update whats_on_html.yml · 2w ago
 - [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/76c85291e5eb55854fd04839374cd227abfd8f39): bug fixes and html edits · 2w ago
@@ -34,6 +34,7 @@
 
 ---
 ## Recent Activity
+- Starred [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)
 - Pushed to [evenwebb/wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)
 - Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
 - Pushed to [evenwebb/merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)
@@ -41,7 +42,6 @@
 - Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
 - Pushed to [evenwebb/epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)
 - Opened PR in [evenwebb/penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)
-- Pushed to [evenwebb/penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)
 
 ---
 # 📊 GitHub Stats
