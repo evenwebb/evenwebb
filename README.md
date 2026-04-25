@@ -8,20 +8,20 @@
 </div>
 
 ## Quick Stats
-⭐ 20 stars · 26 repos · 12 contributions this week · Updated Apr 24, 2026, 06:58 PM
+⭐ 20 stars · 26 repos · 12 contributions this week · Updated Apr 25, 2026, 02:46 AM
 
 ---
 ## Recent Commits
-- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/ecc354290257ca7230d84e9be45a2e52f21f40ac): update · 2h ago
-- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/0109f3e0916735247ff030f2539be202f6688248): update · 2h ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/44f1eb610f160492012f44767bfd1feec47bfdb9): update · 2h ago
-- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/b2ceebbfa33cf9c3cd3f0a1cafdc0129cb8d415e): Update generate_ics.py · 2h ago
-- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/02170aa51133ae8884bfeff091de3b8eafd1e85a): Update cornwall_collection.py · 2h ago
-- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/ad777f29b0e13f9bfbad3d5613441bf424e5924b): optimise the github action run · 2d ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/d4f83ee9b3af2da70ea43f8e55a14ee6d67fedf9): optimise the github action run · 2d ago
-- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/0fa3e0bdeb13ac43d1a891ff2f40d0cafc8a0b08): scrape optimisations · 2d ago
-- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/6fe1537a27b37936767612afe21cf978d26a795d): add super saver filter · 2d ago
-- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/fa22968bee595b554d7a61dffd0fed61f52528f2): updated · 2d ago
+- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/ecc354290257ca7230d84e9be45a2e52f21f40ac): update · 10h ago
+- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/0109f3e0916735247ff030f2539be202f6688248): update · 10h ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/44f1eb610f160492012f44767bfd1feec47bfdb9): update · 10h ago
+- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/b2ceebbfa33cf9c3cd3f0a1cafdc0129cb8d415e): Update generate_ics.py · 10h ago
+- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/02170aa51133ae8884bfeff091de3b8eafd1e85a): Update cornwall_collection.py · 10h ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/ad777f29b0e13f9bfbad3d5613441bf424e5924b): optimise the github action run · 3d ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/d4f83ee9b3af2da70ea43f8e55a14ee6d67fedf9): optimise the github action run · 3d ago
+- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/0fa3e0bdeb13ac43d1a891ff2f40d0cafc8a0b08): scrape optimisations · 3d ago
+- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/6fe1537a27b37936767612afe21cf978d26a795d): add super saver filter · 3d ago
+- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/fa22968bee595b554d7a61dffd0fed61f52528f2): updated · 3d ago
 
 ---
 ## Recently Updated Repos
