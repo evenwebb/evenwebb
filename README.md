@@ -8,15 +8,15 @@
 </div>
 
 ## Quick Stats
-⭐ 20 stars · 26 repos · 12 contributions this week · Updated Apr 25, 2026, 01:12 PM
+⭐ 20 stars · 26 repos · 12 contributions this week · Updated Apr 25, 2026, 06:59 PM
 
 ---
 ## Recent Commits
-- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/ecc354290257ca7230d84e9be45a2e52f21f40ac): update · 20h ago
-- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/0109f3e0916735247ff030f2539be202f6688248): update · 20h ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/44f1eb610f160492012f44767bfd1feec47bfdb9): update · 20h ago
-- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/b2ceebbfa33cf9c3cd3f0a1cafdc0129cb8d415e): Update generate_ics.py · 20h ago
-- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/02170aa51133ae8884bfeff091de3b8eafd1e85a): Update cornwall_collection.py · 20h ago
+- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/ecc354290257ca7230d84e9be45a2e52f21f40ac): update · 1d ago
+- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/0109f3e0916735247ff030f2539be202f6688248): update · 1d ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/44f1eb610f160492012f44767bfd1feec47bfdb9): update · 1d ago
+- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/b2ceebbfa33cf9c3cd3f0a1cafdc0129cb8d415e): Update generate_ics.py · 1d ago
+- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/02170aa51133ae8884bfeff091de3b8eafd1e85a): Update cornwall_collection.py · 1d ago
 - [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/ad777f29b0e13f9bfbad3d5613441bf424e5924b): optimise the github action run · 3d ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/d4f83ee9b3af2da70ea43f8e55a14ee6d67fedf9): optimise the github action run · 3d ago
 - [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/0fa3e0bdeb13ac43d1a891ff2f40d0cafc8a0b08): scrape optimisations · 3d ago
@@ -25,15 +25,16 @@
 
 ---
 ## Recently Updated Repos
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
 - **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
 - **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — What's on at White River Cinema, St Austell (WTW Cinemas) in… · ⭐ 2 · Python
 - **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 0 · Python
 - **[merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)** — Scrapes upcoming film releases from Merlin Cinemas across Co… · ⭐ 1 · Python
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
+- Starred [garrytan/gstack](https://github.com/garrytan/gstack)
 - Pushed to [evenwebb/stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)
 - Pushed to [evenwebb/cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)
 - Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
@@ -41,7 +42,6 @@
 - Starred [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)
 - Pushed to [evenwebb/wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)
 - Pushed to [evenwebb/merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)
-- Starred [nexmoe/VidBee](https://github.com/nexmoe/VidBee)
 
 ---
 # 📊 GitHub Stats
