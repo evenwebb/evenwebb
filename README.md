@@ -8,20 +8,20 @@
 </div>
 
 ## Quick Stats
-⭐ 20 stars · 26 repos · 13 contributions this week · Updated Apr 27, 2026, 07:38 PM
+⭐ 20 stars · 26 repos · 13 contributions this week · Updated Apr 28, 2026, 03:34 AM
 
 ---
 ## Recent Commits
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/74ff2b18c57bc9de53d55aca13e4ade39fec020c): Added new language guard scripts for radarr and sonarr · 2h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/74ff2b18c57bc9de53d55aca13e4ade39fec020c): Added new language guard scripts for radarr and sonarr · 10h ago
 - [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/ecc354290257ca7230d84e9be45a2e52f21f40ac): update · 3d ago
 - [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/0109f3e0916735247ff030f2539be202f6688248): update · 3d ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/44f1eb610f160492012f44767bfd1feec47bfdb9): update · 3d ago
 - [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/b2ceebbfa33cf9c3cd3f0a1cafdc0129cb8d415e): Update generate_ics.py · 3d ago
 - [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/02170aa51133ae8884bfeff091de3b8eafd1e85a): Update cornwall_collection.py · 3d ago
-- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/ad777f29b0e13f9bfbad3d5613441bf424e5924b): optimise the github action run · 5d ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/d4f83ee9b3af2da70ea43f8e55a14ee6d67fedf9): optimise the github action run · 5d ago
-- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/0fa3e0bdeb13ac43d1a891ff2f40d0cafc8a0b08): scrape optimisations · 5d ago
-- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/6fe1537a27b37936767612afe21cf978d26a795d): add super saver filter · 5d ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/ad777f29b0e13f9bfbad3d5613441bf424e5924b): optimise the github action run · 6d ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/d4f83ee9b3af2da70ea43f8e55a14ee6d67fedf9): optimise the github action run · 6d ago
+- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/0fa3e0bdeb13ac43d1a891ff2f40d0cafc8a0b08): scrape optimisations · 6d ago
+- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/6fe1537a27b37936767612afe21cf978d26a795d): add super saver filter · 6d ago
 
 ---
 ## Recently Updated Repos
@@ -34,14 +34,14 @@
 
 ---
 ## Recent Activity
+- Starred [JudoChinX/rangarr](https://github.com/JudoChinX/rangarr)
+- Starred [sworcery/ChannelHoarder](https://github.com/sworcery/ChannelHoarder)
+- Starred [Shoshuo/Prismarr](https://github.com/Shoshuo/Prismarr)
 - Pushed to [evenwebb/unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)
 - Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
 - Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 - Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-- Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
-- Starred [jasonacox/Powerwall-Dashboard](https://github.com/jasonacox/Powerwall-Dashboard)
-- Starred [garrytan/gstack](https://github.com/garrytan/gstack)
 
 ---
 # 📊 GitHub Stats
