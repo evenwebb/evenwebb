@@ -8,36 +8,36 @@
 </div>
 
 ## Quick Stats
-⭐ 20 stars · 26 repos · 6 contributions this week · Updated Apr 29, 2026, 02:07 PM
+⭐ 20 stars · 26 repos · 16 contributions this week · Updated Apr 29, 2026, 07:41 PM
 
 ---
 ## Recent Commits
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/74ff2b18c57bc9de53d55aca13e4ade39fec020c): Added new language guard scripts for radarr and sonarr · 1d ago
-- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/ecc354290257ca7230d84e9be45a2e52f21f40ac): update · 4d ago
-- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/0109f3e0916735247ff030f2539be202f6688248): update · 4d ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/44f1eb610f160492012f44767bfd1feec47bfdb9): update · 4d ago
-- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/b2ceebbfa33cf9c3cd3f0a1cafdc0129cb8d415e): Update generate_ics.py · 4d ago
-- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/02170aa51133ae8884bfeff091de3b8eafd1e85a): Update cornwall_collection.py · 4d ago
-- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/ad777f29b0e13f9bfbad3d5613441bf424e5924b): optimise the github action run · 1w ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/d4f83ee9b3af2da70ea43f8e55a14ee6d67fedf9): optimise the github action run · 1w ago
-- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/0fa3e0bdeb13ac43d1a891ff2f40d0cafc8a0b08): scrape optimisations · 1w ago
-- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/6fe1537a27b37936767612afe21cf978d26a795d): add super saver filter · 1w ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/fbef9802e13a2e810504e8a1ee0825f26eb8ebbb): update · 35m ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/f66dba0572719c0933c0f914899db8f7db17f2da): update · 1h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/6a3c00e1abbd926737436d18333136dfabf94f58): Merge branch 'main' of https://github.com/evenwebb/unraid-us… · 1h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/7c5a7b1248d202404d2eb6b73a73c65fc3d4936f): update · 1h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/a72915144dcd9e489c51a8bc22c39c8d990f6b32): Merge branch 'main' of https://github.com/evenwebb/unraid-us… · 1h ago
+- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/ecc354290257ca7230d84e9be45a2e52f21f40ac): update · 5d ago
+- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/0109f3e0916735247ff030f2539be202f6688248): update · 5d ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/44f1eb610f160492012f44767bfd1feec47bfdb9): update · 5d ago
+- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/b2ceebbfa33cf9c3cd3f0a1cafdc0129cb8d415e): Update generate_ics.py · 5d ago
+- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/02170aa51133ae8884bfeff091de3b8eafd1e85a): Update cornwall_collection.py · 5d ago
 
 ---
 ## Recently Updated Repos
+- **[unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)** — Collection of my custom User Scripts for use with Unraid · ⭐ 1 · Shell
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
 - **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — What's on at White River Cinema, St Austell (WTW Cinemas) in… · ⭐ 2 · Python
 - **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
 - **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 0 · Python
-- **[merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)** — Scrapes upcoming film releases from Merlin Cinemas across Co… · ⭐ 1 · Python
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
+- Pushed to [evenwebb/unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)
 - Starred [JudoChinX/rangarr](https://github.com/JudoChinX/rangarr)
 - Starred [sworcery/ChannelHoarder](https://github.com/sworcery/ChannelHoarder)
 - Starred [Shoshuo/Prismarr](https://github.com/Shoshuo/Prismarr)
-- Pushed to [evenwebb/unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)
 - Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
 - Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
