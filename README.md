@@ -8,15 +8,15 @@
 </div>
 
 ## Quick Stats
-⭐ 20 stars · 26 repos · 16 contributions this week · Updated Apr 29, 2026, 07:41 PM
+⭐ 20 stars · 26 repos · 33 contributions this week · Updated Apr 30, 2026, 03:33 AM
 
 ---
 ## Recent Commits
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/fbef9802e13a2e810504e8a1ee0825f26eb8ebbb): update · 35m ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/f66dba0572719c0933c0f914899db8f7db17f2da): update · 1h ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/6a3c00e1abbd926737436d18333136dfabf94f58): Merge branch 'main' of https://github.com/evenwebb/unraid-us… · 1h ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/7c5a7b1248d202404d2eb6b73a73c65fc3d4936f): update · 1h ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/a72915144dcd9e489c51a8bc22c39c8d990f6b32): Merge branch 'main' of https://github.com/evenwebb/unraid-us… · 1h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/ef2e389f4a53b75e3b6421ff8698e0afce00737f): Update generate-user-scripts-folders.yml · 3h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/a7f777e523ddeda6325b6f875a8fa35274fc9302): update · 4h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/2d2eeb708dce84d34d01b60e18299054ffe6e0e8): update · 4h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/be3d8e53e3c0492da3e268d1af416d6df1fda74e): update · 5h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/370653e011f6159f8db033b7c9f49968c3a90a72): update · 5h ago
 - [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/ecc354290257ca7230d84e9be45a2e52f21f40ac): update · 5d ago
 - [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/0109f3e0916735247ff030f2539be202f6688248): update · 5d ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/44f1eb610f160492012f44767bfd1feec47bfdb9): update · 5d ago
