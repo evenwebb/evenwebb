@@ -8,10 +8,11 @@
 </div>
 
 ## Quick Stats
-⭐ 20 stars · 27 repos · 30 contributions this week · Updated May 2, 2026, 07:49 AM
+⭐ 20 stars · 27 repos · 31 contributions this week · Updated May 2, 2026, 01:20 PM
 
 ---
 ## Recent Commits
+- [OctoCal](https://github.com/evenwebb/OctoCal/commit/895640d65fd4ff73512dfe39d5b2191b8a53b5af): Fix formatting of README title · 1h ago
 - [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/9a1bf384bf22bd98dbcebce90dc86a45a84a5a1e): initial commit · 1d ago
 - [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/b2010d47e9b8b5307150aa4ac6693cfa79c81aac): initial commit · 1d ago
 - [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/a17871ed1f08312c6c6a85950bbbc680783fbe66): Initial commit · 1d ago
@@ -21,19 +22,19 @@
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/be3d8e53e3c0492da3e268d1af416d6df1fda74e): update · 2d ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/370653e011f6159f8db033b7c9f49968c3a90a72): update · 2d ago
 - [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/ecc354290257ca7230d84e9be45a2e52f21f40ac): update · 1w ago
-- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/0109f3e0916735247ff030f2539be202f6688248): update · 1w ago
 
 ---
 ## Recently Updated Repos
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 0 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
+- **[OctoCal](https://github.com/evenwebb/OctoCal)** — OctoCal automatically scrapes the Octopus Energy website for… · ⭐ 1 · HTML
 - **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
+- **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 0 · Python
 - **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — What's on at White River Cinema, St Austell (WTW Cinemas) in… · ⭐ 2 · Python
+- **[merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)** — Scrapes upcoming film releases from Merlin Cinemas across Co… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
+- Pushed to [evenwebb/OctoCal](https://github.com/evenwebb/OctoCal)
 - Starred [yousifamanuel/terraink](https://github.com/yousifamanuel/terraink)
 - Pushed to [evenwebb/nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts)
 - Starred [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker)
@@ -41,7 +42,6 @@
 - Starred [JudoChinX/rangarr](https://github.com/JudoChinX/rangarr)
 - Starred [sworcery/ChannelHoarder](https://github.com/sworcery/ChannelHoarder)
 - Starred [Shoshuo/Prismarr](https://github.com/Shoshuo/Prismarr)
-- Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 
 ---
 # 📊 GitHub Stats
