@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 20 stars · 27 repos · 34 contributions this week · Updated May 4, 2026, 02:09 PM
+⭐ 20 stars · 27 repos · 33 contributions this week · Updated May 4, 2026, 07:45 PM
 
 ---
 ## Recent Commits
@@ -17,20 +17,20 @@
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/747c7af166639498d6c1e6e44f88e20fce1a3685): fix the unbound total_count variable. · 1d ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/85f209194e31e25844cea63bb13fb036a2d28086): alert only on rising unique error count · 1d ago
 - [OctoCal](https://github.com/evenwebb/OctoCal/commit/895640d65fd4ff73512dfe39d5b2191b8a53b5af): Fix formatting of README title · 2d ago
-- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/9a1bf384bf22bd98dbcebce90dc86a45a84a5a1e): initial commit · 3d ago
-- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/b2010d47e9b8b5307150aa4ac6693cfa79c81aac): initial commit · 3d ago
-- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/a17871ed1f08312c6c6a85950bbbc680783fbe66): Initial commit · 3d ago
+- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/9a1bf384bf22bd98dbcebce90dc86a45a84a5a1e): initial commit · 4d ago
+- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/b2010d47e9b8b5307150aa4ac6693cfa79c81aac): initial commit · 4d ago
+- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/a17871ed1f08312c6c6a85950bbbc680783fbe66): Initial commit · 4d ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/ef2e389f4a53b75e3b6421ff8698e0afce00737f): Update generate-user-scripts-folders.yml · 4d ago
 - [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/ecc354290257ca7230d84e9be45a2e52f21f40ac): update · 1w ago
 
 ---
 ## Recently Updated Repos
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — Never miss a Tesla Owners UK event — track days, meetups, AG… · ⭐ 0 · Python
 - **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
 - **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — What's on at White River Cinema, St Austell (WTW Cinemas) in… · ⭐ 2 · Python
 - **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 0 · Python
-- **[merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)** — Scrapes upcoming film releases from Merlin Cinemas across Co… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
