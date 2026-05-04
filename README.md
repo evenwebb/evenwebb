@@ -8,15 +8,15 @@
 </div>
 
 ## Quick Stats
-⭐ 20 stars · 27 repos · 34 contributions this week · Updated May 4, 2026, 08:34 AM
+⭐ 20 stars · 27 repos · 34 contributions this week · Updated May 4, 2026, 02:09 PM
 
 ---
 ## Recent Commits
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8fb08cc2623ce92f01de82ec92eef6d5e52610a6): Merge branch 'main' of https://github.com/evenwebb/unraid-us… · 19h ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/5c9c56d58f96cc291db7c21342f4cb5e16cdf2da): fix the unbound total_count variable. · 19h ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/747c7af166639498d6c1e6e44f88e20fce1a3685): fix the unbound total_count variable. · 19h ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/85f209194e31e25844cea63bb13fb036a2d28086): alert only on rising unique error count · 19h ago
-- [OctoCal](https://github.com/evenwebb/OctoCal/commit/895640d65fd4ff73512dfe39d5b2191b8a53b5af): Fix formatting of README title · 1d ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8fb08cc2623ce92f01de82ec92eef6d5e52610a6): Merge branch 'main' of https://github.com/evenwebb/unraid-us… · 1d ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/5c9c56d58f96cc291db7c21342f4cb5e16cdf2da): fix the unbound total_count variable. · 1d ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/747c7af166639498d6c1e6e44f88e20fce1a3685): fix the unbound total_count variable. · 1d ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/85f209194e31e25844cea63bb13fb036a2d28086): alert only on rising unique error count · 1d ago
+- [OctoCal](https://github.com/evenwebb/OctoCal/commit/895640d65fd4ff73512dfe39d5b2191b8a53b5af): Fix formatting of README title · 2d ago
 - [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/9a1bf384bf22bd98dbcebce90dc86a45a84a5a1e): initial commit · 3d ago
 - [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/b2010d47e9b8b5307150aa4ac6693cfa79c81aac): initial commit · 3d ago
 - [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/a17871ed1f08312c6c6a85950bbbc680783fbe66): Initial commit · 3d ago
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 0 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
-- **[unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)** — Collection of my custom User Scripts for use with Unraid · ⭐ 1 · Shell
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
+- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — Never miss a Tesla Owners UK event — track days, meetups, AG… · ⭐ 0 · Python
+- **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
+- **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — What's on at White River Cinema, St Austell (WTW Cinemas) in… · ⭐ 2 · Python
 - **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 0 · Python
+- **[merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)** — Scrapes upcoming film releases from Merlin Cinemas across Co… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
