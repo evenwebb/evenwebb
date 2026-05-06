@@ -8,40 +8,40 @@
 </div>
 
 ## Quick Stats
-⭐ 20 stars · 27 repos · 34 contributions this week · Updated May 5, 2026, 07:26 PM
+⭐ 25 stars · 26 repos · 42 contributions this week · Updated May 6, 2026, 03:31 AM
 
 ---
 ## Recent Commits
-- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/6e53dece7e3eb344911d0660d24e5cea00e6b1df): new scripts added · 19h ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8fb08cc2623ce92f01de82ec92eef6d5e52610a6): Merge branch 'main' of https://github.com/evenwebb/unraid-us… · 2d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/5c9c56d58f96cc291db7c21342f4cb5e16cdf2da): fix the unbound total_count variable. · 2d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/747c7af166639498d6c1e6e44f88e20fce1a3685): fix the unbound total_count variable. · 2d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/85f209194e31e25844cea63bb13fb036a2d28086): alert only on rising unique error count · 2d ago
-- [OctoCal](https://github.com/evenwebb/OctoCal/commit/895640d65fd4ff73512dfe39d5b2191b8a53b5af): Fix formatting of README title · 3d ago
+- [gpx2map](https://github.com/evenwebb/gpx2map/commit/2280fef626efce9b245ce674a0f9c0e05e5e01cf): fix(test): use explicit test file for Node 21+ (directory ar… · 4h ago
+- [gpx2map](https://github.com/evenwebb/gpx2map/commit/9b88fd07d1f9b20dd2149084bbfd9a8bc0f61ea4): Fix CI: stop ignoring test/, add .nojekyll; Node 22 for test… · 4h ago
+- [gpx2map](https://github.com/evenwebb/gpx2map/commit/5f88839d994d5a65a52efcbd908196601c81bb89): App refresh: UI split, track reindex, waypoint ele, Pages as… · 4h ago
+- [epic-free-games-notifier](https://github.com/evenwebb/epic-free-games-notifier/commit/892abcffc8072cbbc528e23b0645e7c242bdffd1): updated and cleaned up the codebase · 5h ago
+- [gpx2map](https://github.com/evenwebb/gpx2map/commit/951f37df483af253aee7d9b2e70ba0437b47c0bf): GPX Travel Map — health check, feature pass, and GitHub Page… · 5h ago
+- [youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper/commit/2066bb19f0444ca231ef56fc1c7328f347b77012): Refactor scraper into single module, add tests · 6h ago
+- [youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper/commit/c75f956954f6f8b2392cd797718aec259121639b): Add GNU GPL v3 license · 6h ago
+- [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/45bd76aff1228244595072a38a1607bd435053ca): Package refactor, Apprise templates, rotating logs, CI and t… · 6h ago
+- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/6e53dece7e3eb344911d0660d24e5cea00e6b1df): new scripts added · 1d ago
 - [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/9a1bf384bf22bd98dbcebce90dc86a45a84a5a1e): initial commit · 5d ago
-- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/b2010d47e9b8b5307150aa4ac6693cfa79c81aac): initial commit · 5d ago
-- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/a17871ed1f08312c6c6a85950bbbc680783fbe66): Initial commit · 5d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/ef2e389f4a53b75e3b6421ff8698e0afce00737f): Update generate-user-scripts-folders.yml · 5d ago
 
 ---
 ## Recently Updated Repos
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
-- **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
-- **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — What's on at White River Cinema, St Austell (WTW Cinemas) in… · ⭐ 2 · Python
-- **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
-- **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 0 · Python
-- **[merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)** — Scrapes upcoming film releases from Merlin Cinemas across Co… · ⭐ 1 · Python
+- **[calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template)** — A reusable Python template for building event scrapers that … · ⭐ 0 · Python
+- **[field-data-collector](https://github.com/evenwebb/field-data-collector)** — A customisable field data collection app. Create projects wi… · ⭐ 0 · PHP
+- **[nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts)** — Scripts to improve NZBGet automation and your Sonarr/Radarr … · ⭐ 1 · Python
+- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — Never miss a Tesla Owners UK event — track days, meetups, AG… · ⭐ 1 · Python
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
+- **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
-- Pushed to [evenwebb/nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts)
-- Pushed to [evenwebb/unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)
-- Pushed to [evenwebb/OctoCal](https://github.com/evenwebb/OctoCal)
-- Starred [yousifamanuel/terraink](https://github.com/yousifamanuel/terraink)
-- Starred [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker)
-- Starred [JudoChinX/rangarr](https://github.com/JudoChinX/rangarr)
-- Starred [sworcery/ChannelHoarder](https://github.com/sworcery/ChannelHoarder)
-- Starred [Shoshuo/Prismarr](https://github.com/Shoshuo/Prismarr)
+- Starred [evenwebb/calendar-scraper-template](https://github.com/evenwebb/calendar-scraper-template)
+- Starred [evenwebb/field-data-collector](https://github.com/evenwebb/field-data-collector)
+- Starred [evenwebb/tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)
+- Starred [evenwebb/nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts)
+- Starred [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
+- Starred [evenwebb/merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)
+- Starred [evenwebb/epic-free-games-notifier](https://github.com/evenwebb/epic-free-games-notifier)
+- Pushed to [evenwebb/gpx2map](https://github.com/evenwebb/gpx2map)
 
 ---
 # 📊 GitHub Stats
