@@ -8,14 +8,14 @@
 </div>
 
 ## Quick Stats
-⭐ 25 stars · 26 repos · 19 contributions this week · Updated May 7, 2026, 02:22 PM
+⭐ 25 stars · 26 repos · 17 contributions this week · Updated May 7, 2026, 07:46 PM
 
 ---
 ## Recent Commits
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/acabef4db0d9a6b8bc4839906164b4343eeaa4c0): text update · 16h ago
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/8f1968d30a66ede297e376996ecd6869fb80ea7a): update text · 16h ago
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/297e173e9f48c366dd145f39ec182936d1ea06cf): fix node message · 16h ago
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/0050e0532728854caa57dbe92c5ab0a7aa0e8765): update source site · 16h ago
+- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/acabef4db0d9a6b8bc4839906164b4343eeaa4c0): text update · 21h ago
+- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/8f1968d30a66ede297e376996ecd6869fb80ea7a): update text · 21h ago
+- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/297e173e9f48c366dd145f39ec182936d1ea06cf): fix node message · 21h ago
+- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/0050e0532728854caa57dbe92c5ab0a7aa0e8765): update source site · 21h ago
 - [gpx2map](https://github.com/evenwebb/gpx2map/commit/2280fef626efce9b245ce674a0f9c0e05e5e01cf): fix(test): use explicit test file for Node 21+ (directory ar… · 1d ago
 - [gpx2map](https://github.com/evenwebb/gpx2map/commit/9b88fd07d1f9b20dd2149084bbfd9a8bc0f61ea4): Fix CI: stop ignoring test/, add .nojekyll; Node 22 for test… · 1d ago
 - [gpx2map](https://github.com/evenwebb/gpx2map/commit/5f88839d994d5a65a52efcbd908196601c81bb89): App refresh: UI split, track reindex, waypoint ele, Pages as… · 1d ago
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
 - **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 1 · Python
 - **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
 - **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — What's on at White River Cinema, St Austell (WTW Cinemas) in… · ⭐ 2 · Python
 - **[merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)** — Scrapes upcoming film releases from Merlin Cinemas across Co… · ⭐ 1 · Python
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
