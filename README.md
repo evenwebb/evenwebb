@@ -8,29 +8,29 @@
 </div>
 
 ## Quick Stats
-⭐ 25 stars · 26 repos · 36 contributions this week · Updated May 8, 2026, 01:58 PM
+⭐ 25 stars · 26 repos · 36 contributions this week · Updated May 8, 2026, 07:24 PM
 
 ---
 ## Recent Commits
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/c9d195e39792cf47c7b24edf11256cf5705f2a43): Merge branch 'main' of https://github.com/evenwebb/unraid-us… · 15h ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/3a52be38651231a23b82696820284b85e2a2501a): update readme · 15h ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8a6734770022d1ccfef893b8c94b58ed8e5086db): fix · 15h ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/dd3ab532cd6241b7bc49e27780046f50e5df35c2): bug fix · 15h ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/3e029c3f6547a27f1518afbd63938ce6167e45a2): updater tweaks · 15h ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/8d10e6816a8405297e96bd5f1293f16b0293d953): Merge branch 'main' of https://github.com/evenwebb/epic-free… · 16h ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/44b01449968e5ea33863f203ac681767808689ce): update to v5 actions · 16h ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/c9bdab98ac38829f5a9423c19193dc530f1cafa1): Merge branch 'main' of https://github.com/evenwebb/epic-free… · 16h ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/49de1ee551565c3e83da32b82255e9e39cb5105e): cleanup and action optimise · 16h ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/b6fecec85662fa707d410343129ad1fd1e69d3c6): fix · 17h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/c9d195e39792cf47c7b24edf11256cf5705f2a43): Merge branch 'main' of https://github.com/evenwebb/unraid-us… · 20h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/3a52be38651231a23b82696820284b85e2a2501a): update readme · 20h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8a6734770022d1ccfef893b8c94b58ed8e5086db): fix · 20h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/dd3ab532cd6241b7bc49e27780046f50e5df35c2): bug fix · 20h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/3e029c3f6547a27f1518afbd63938ce6167e45a2): updater tweaks · 20h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/8d10e6816a8405297e96bd5f1293f16b0293d953): Merge branch 'main' of https://github.com/evenwebb/epic-free… · 22h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/44b01449968e5ea33863f203ac681767808689ce): update to v5 actions · 22h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/c9bdab98ac38829f5a9423c19193dc530f1cafa1): Merge branch 'main' of https://github.com/evenwebb/epic-free… · 22h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/49de1ee551565c3e83da32b82255e9e39cb5105e): cleanup and action optimise · 22h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/b6fecec85662fa707d410343129ad1fd1e69d3c6): fix · 22h ago
 
 ---
 ## Recently Updated Repos
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 3 · Python
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
 - **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
 - **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 1 · Python
 - **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — What's on at White River Cinema, St Austell (WTW Cinemas) in… · ⭐ 2 · Python
-- **[merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)** — Scrapes upcoming film releases from Merlin Cinemas across Co… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
