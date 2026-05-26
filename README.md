@@ -8,10 +8,11 @@
 </div>
 
 ## Quick Stats
-⭐ 25 stars · 26 repos · 0 contributions this week · Updated May 25, 2026, 07:45 PM
+⭐ 25 stars · 26 repos · 1 contributions this week · Updated May 26, 2026, 03:55 AM
 
 ---
 ## Recent Commits
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/c3521d7a4e71d2861ed0b7b32717178c5f4823fb): fix occasional run fails · 8h ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/c9d195e39792cf47c7b24edf11256cf5705f2a43): Merge branch 'main' of https://github.com/evenwebb/unraid-us… · 2w ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/3a52be38651231a23b82696820284b85e2a2501a): update readme · 2w ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8a6734770022d1ccfef893b8c94b58ed8e5086db): fix · 2w ago
@@ -21,7 +22,6 @@
 - [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/44b01449968e5ea33863f203ac681767808689ce): update to v5 actions · 2w ago
 - [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/c9bdab98ac38829f5a9423c19193dc530f1cafa1): Merge branch 'main' of https://github.com/evenwebb/epic-free… · 2w ago
 - [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/49de1ee551565c3e83da32b82255e9e39cb5105e): cleanup and action optimise · 2w ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/b6fecec85662fa707d410343129ad1fd1e69d3c6): fix · 2w ago
 
 ---
 ## Recently Updated Repos
@@ -34,6 +34,7 @@
 
 ---
 ## Recent Activity
+- Pushed to [evenwebb/epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)
 - Starred [Mood-Global-Services/How-to-Clone-Website---Claude-Skills](https://github.com/Mood-Global-Services/How-to-Clone-Website---Claude-Skills)
 - Starred [philfung/add-to-homescreen](https://github.com/philfung/add-to-homescreen)
 - Starred [preflightsh/preflight](https://github.com/preflightsh/preflight)
@@ -41,7 +42,6 @@
 - Starred [keycloak/keycloak](https://github.com/keycloak/keycloak)
 - Starred [tidbyt/hdk](https://github.com/tidbyt/hdk)
 - Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
-- Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
 
 ---
 # 📊 GitHub Stats
