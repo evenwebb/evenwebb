@@ -8,13 +8,13 @@
 </div>
 
 ## Quick Stats
-⭐ 26 stars · 28 repos · 2 contributions this week · Updated May 31, 2026, 04:11 AM
+⭐ 26 stars · 28 repos · 2 contributions this week · Updated May 31, 2026, 08:50 AM
 
 ---
 ## Recent Commits
-- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/7e6df258967bff6ba2d1c2fabc0b927334bd9882): Initial commit · 7h ago
-- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/4709e37f350ec6875d54d01e09dc863c153936b6): initial commit of new version · 7h ago
-- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/1ef1a2f1b95fc022ed39a52cf0533d2d6c5eb03f): Initial commit · 7h ago
+- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/7e6df258967bff6ba2d1c2fabc0b927334bd9882): Initial commit · 11h ago
+- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/4709e37f350ec6875d54d01e09dc863c153936b6): initial commit of new version · 11h ago
+- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/1ef1a2f1b95fc022ed39a52cf0533d2d6c5eb03f): Initial commit · 12h ago
 - [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/c3521d7a4e71d2861ed0b7b32717178c5f4823fb): fix occasional run fails · 5d ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/c9d195e39792cf47c7b24edf11256cf5705f2a43): Merge branch 'main' of https://github.com/evenwebb/unraid-us… · 3w ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/3a52be38651231a23b82696820284b85e2a2501a): update readme · 3w ago
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — No description · ⭐ 0 · N/A
 - **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — No description · ⭐ 0 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 4 · Python
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
-- **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
-- **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
