@@ -8,12 +8,12 @@
 </div>
 
 ## Quick Stats
-⭐ 26 stars · 28 repos · 1 contributions this week · Updated Jun 2, 2026, 08:53 PM
+⭐ 26 stars · 28 repos · 1 contributions this week · Updated Jun 3, 2026, 04:38 AM
 
 ---
 ## Recent Commits
-- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/7e6df258967bff6ba2d1c2fabc0b927334bd9882): Initial commit · 2d ago
-- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/4709e37f350ec6875d54d01e09dc863c153936b6): initial commit of new version · 2d ago
+- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/7e6df258967bff6ba2d1c2fabc0b927334bd9882): Initial commit · 3d ago
+- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/4709e37f350ec6875d54d01e09dc863c153936b6): initial commit of new version · 3d ago
 - [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/1ef1a2f1b95fc022ed39a52cf0533d2d6c5eb03f): Initial commit · 3d ago
 - [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/c3521d7a4e71d2861ed0b7b32717178c5f4823fb): fix occasional run fails · 1w ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/c9d195e39792cf47c7b24edf11256cf5705f2a43): Merge branch 'main' of https://github.com/evenwebb/unraid-us… · 3w ago
@@ -34,14 +34,14 @@
 
 ---
 ## Recent Activity
+- Starred [whizkydee/Awesome-APIs](https://github.com/whizkydee/Awesome-APIs)
+- Starred [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers)
 - Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
 - Starred [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
 - Pushed to [evenwebb/wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)
 - Pushed to [evenwebb/epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)
 - Starred [Mood-Global-Services/How-to-Clone-Website---Claude-Skills](https://github.com/Mood-Global-Services/How-to-Clone-Website---Claude-Skills)
 - Starred [philfung/add-to-homescreen](https://github.com/philfung/add-to-homescreen)
-- Starred [preflightsh/preflight](https://github.com/preflightsh/preflight)
-- Starred [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
 
 ---
 # 📊 GitHub Stats
