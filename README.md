@@ -8,12 +8,12 @@
 </div>
 
 ## Quick Stats
-⭐ 26 stars · 28 repos · 15 contributions this week · Updated Jun 6, 2026, 07:36 PM
+⭐ 26 stars · 28 repos · 14 contributions this week · Updated Jun 7, 2026, 04:16 AM
 
 ---
 ## Recent Commits
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/35999870f610295e61ad53c8b4542228c649904a): Add LICENSE file · 2d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/c7b207c50d00ae972066d965caf11ab1bc863d2c): Fixed three script issues affecting language detection and R… · 2d ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/c7b207c50d00ae972066d965caf11ab1bc863d2c): Fixed three script issues affecting language detection and R… · 3d ago
 - [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/d4426c0e5b8b5ced3919f13f0ab4e21e627da455): update and fixes · 3d ago
 - [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/39069e0a93121a3f8a33488d518585fade21b41f): update and fixes · 3d ago
 - [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/c3115abfbfb576afec27a9cb9636cd11fb27819d): update and fixes · 3d ago
