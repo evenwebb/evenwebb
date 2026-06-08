@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 26 stars · 28 repos · 14 contributions this week · Updated Jun 8, 2026, 11:02 AM
+⭐ 26 stars · 28 repos · 14 contributions this week · Updated Jun 8, 2026, 03:58 PM
 
 ---
 ## Recent Commits
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 4 · Python
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
-- **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
+- **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
+- **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
+- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — Never miss a Tesla Owners UK event — track days, meetups, AG… · ⭐ 1 · Python
+- **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
