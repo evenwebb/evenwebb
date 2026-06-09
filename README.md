@@ -8,32 +8,33 @@
 </div>
 
 ## Quick Stats
-⭐ 26 stars · 28 repos · 14 contributions this week · Updated Jun 8, 2026, 08:22 PM
+⭐ 26 stars · 29 repos · 23 contributions this week · Updated Jun 9, 2026, 03:52 AM
 
 ---
 ## Recent Commits
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/f3c0d5513051fa37d8325fb8f2784b31066d9a29): Update index.html · 4h ago
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/a6141e7365b406e1bb59026b507562bc44a7d2a4): Update index.html · 4h ago
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/7474db68c44bb7d2bf4ebcd9e99ee7b7c70b1d15): edit onboarding · 4h ago
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/7066d35f4a1efc9d4a700688a30ea15badf5df00): remove filter on results page · 5h ago
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/8ddc5d781bdc2283dce13b0ad1473dd810a4bfb4): actions fixes · 5h ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/35999870f610295e61ad53c8b4542228c649904a): Add LICENSE file · 4d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/c7b207c50d00ae972066d965caf11ab1bc863d2c): Fixed three script issues affecting language detection and R… · 4d ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/c7b207c50d00ae972066d965caf11ab1bc863d2c): Fixed three script issues affecting language detection and R… · 5d ago
 - [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/d4426c0e5b8b5ced3919f13f0ab4e21e627da455): update and fixes · 5d ago
 - [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/39069e0a93121a3f8a33488d518585fade21b41f): update and fixes · 5d ago
 - [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/c3115abfbfb576afec27a9cb9636cd11fb27819d): update and fixes · 5d ago
-- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/034ce35f9b745886513ae2459a609960cac183c6): update and fixes · 5d ago
-- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/2bfff6c2263017cd84d7afca46f52b5be04d4bb9): update and fixes · 5d ago
-- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/4e570f5dc22af0ba005c26d35adebabb2a518d92): updates and bug fixes · 5d ago
-- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/174642a823f632999d186536131e487a2cd5d472): Merge branch 'main' of https://github.com/evenwebb/merlin-ci… · 5d ago
-- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/2f6b077dc63b37e80dc2cac6e3f79ba49fdd24d2): updates and fixes · 5d ago
 
 ---
 ## Recently Updated Repos
+- **[SubSleuth](https://github.com/evenwebb/SubSleuth)** — SubSleuth scans your YouTube Google Takeout export and helps… · ⭐ 0 · JavaScript
+- **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 4 · Python
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
-- **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
-- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — Never miss a Tesla Owners UK event — track days, meetups, AG… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
+- Pushed to [evenwebb/SubSleuth](https://github.com/evenwebb/SubSleuth)
 - Starred [github/spec-kit](https://github.com/github/spec-kit)
 - Pushed to [evenwebb/unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)
 - Starred [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs)
@@ -41,7 +42,6 @@
 - Pushed to [evenwebb/wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)
 - Pushed to [evenwebb/merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)
 - Starred [whizkydee/Awesome-APIs](https://github.com/whizkydee/Awesome-APIs)
-- Starred [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers)
 
 ---
 # 📊 GitHub Stats
