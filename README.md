@@ -8,15 +8,15 @@
 </div>
 
 ## Quick Stats
-⭐ 26 stars · 29 repos · 23 contributions this week · Updated Jun 9, 2026, 03:52 AM
+⭐ 26 stars · 29 repos · 23 contributions this week · Updated Jun 9, 2026, 09:52 AM
 
 ---
 ## Recent Commits
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/f3c0d5513051fa37d8325fb8f2784b31066d9a29): Update index.html · 4h ago
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/a6141e7365b406e1bb59026b507562bc44a7d2a4): Update index.html · 4h ago
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/7474db68c44bb7d2bf4ebcd9e99ee7b7c70b1d15): edit onboarding · 4h ago
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/7066d35f4a1efc9d4a700688a30ea15badf5df00): remove filter on results page · 5h ago
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/8ddc5d781bdc2283dce13b0ad1473dd810a4bfb4): actions fixes · 5h ago
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/f3c0d5513051fa37d8325fb8f2784b31066d9a29): Update index.html · 10h ago
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/a6141e7365b406e1bb59026b507562bc44a7d2a4): Update index.html · 10h ago
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/7474db68c44bb7d2bf4ebcd9e99ee7b7c70b1d15): edit onboarding · 10h ago
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/7066d35f4a1efc9d4a700688a30ea15badf5df00): remove filter on results page · 11h ago
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/8ddc5d781bdc2283dce13b0ad1473dd810a4bfb4): actions fixes · 11h ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/35999870f610295e61ad53c8b4542228c649904a): Add LICENSE file · 4d ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/c7b207c50d00ae972066d965caf11ab1bc863d2c): Fixed three script issues affecting language detection and R… · 5d ago
 - [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/d4426c0e5b8b5ced3919f13f0ab4e21e627da455): update and fixes · 5d ago
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[SubSleuth](https://github.com/evenwebb/SubSleuth)** — SubSleuth scans your YouTube Google Takeout export and helps… · ⭐ 0 · JavaScript
 - **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 4 · Python
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
-- **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
-- **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 
 ---
 ## Recent Activity
