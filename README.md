@@ -8,20 +8,20 @@
 </div>
 
 ## Quick Stats
-⭐ 26 stars · 29 repos · 16 contributions this week · Updated Jun 10, 2026, 08:34 PM
+⭐ 26 stars · 29 repos · 15 contributions this week · Updated Jun 11, 2026, 04:17 AM
 
 ---
 ## Recent Commits
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/74c19dd8c1f64ed9b8416e463028f7f5825f952e): Deep cleanup: remove dead code, fix bugs, batch N+1 queries · 4h ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/194ebc89cb55f1ab52f4c76b2a473e20cb226106): Add dashboard polish: dormant idle days, streak dates, repo … · 5h ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/9471f309957787da20ba2c6826ec1248b76f8d8a): Update collected data and generated dashboard · 5h ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/341463237e3a311ecf11da802163d4e1c2e03610): Redesign web UI with light/dark mode and responsive charts · 5h ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/991d67845ba4c1d50e8555166079c9b83761a564): Update workflows, Dockerfile, and dependencies · 5h ago
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/f3c0d5513051fa37d8325fb8f2784b31066d9a29): Update index.html · 1d ago
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/a6141e7365b406e1bb59026b507562bc44a7d2a4): Update index.html · 1d ago
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/7474db68c44bb7d2bf4ebcd9e99ee7b7c70b1d15): edit onboarding · 1d ago
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/7066d35f4a1efc9d4a700688a30ea15badf5df00): remove filter on results page · 1d ago
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/8ddc5d781bdc2283dce13b0ad1473dd810a4bfb4): actions fixes · 1d ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/74c19dd8c1f64ed9b8416e463028f7f5825f952e): Deep cleanup: remove dead code, fix bugs, batch N+1 queries · 12h ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/194ebc89cb55f1ab52f4c76b2a473e20cb226106): Add dashboard polish: dormant idle days, streak dates, repo … · 12h ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/9471f309957787da20ba2c6826ec1248b76f8d8a): Update collected data and generated dashboard · 13h ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/341463237e3a311ecf11da802163d4e1c2e03610): Redesign web UI with light/dark mode and responsive charts · 13h ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/991d67845ba4c1d50e8555166079c9b83761a564): Update workflows, Dockerfile, and dependencies · 13h ago
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/f3c0d5513051fa37d8325fb8f2784b31066d9a29): Update index.html · 2d ago
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/a6141e7365b406e1bb59026b507562bc44a7d2a4): Update index.html · 2d ago
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/7474db68c44bb7d2bf4ebcd9e99ee7b7c70b1d15): edit onboarding · 2d ago
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/7066d35f4a1efc9d4a700688a30ea15badf5df00): remove filter on results page · 2d ago
+- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/8ddc5d781bdc2283dce13b0ad1473dd810a4bfb4): actions fixes · 2d ago
 
 ---
 ## Recently Updated Repos
