@@ -8,15 +8,15 @@
 </div>
 
 ## Quick Stats
-⭐ 26 stars · 29 repos · 15 contributions this week · Updated Jun 11, 2026, 04:17 AM
+⭐ 26 stars · 29 repos · 14 contributions this week · Updated Jun 11, 2026, 10:42 AM
 
 ---
 ## Recent Commits
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/74c19dd8c1f64ed9b8416e463028f7f5825f952e): Deep cleanup: remove dead code, fix bugs, batch N+1 queries · 12h ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/194ebc89cb55f1ab52f4c76b2a473e20cb226106): Add dashboard polish: dormant idle days, streak dates, repo … · 12h ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/9471f309957787da20ba2c6826ec1248b76f8d8a): Update collected data and generated dashboard · 13h ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/341463237e3a311ecf11da802163d4e1c2e03610): Redesign web UI with light/dark mode and responsive charts · 13h ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/991d67845ba4c1d50e8555166079c9b83761a564): Update workflows, Dockerfile, and dependencies · 13h ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/74c19dd8c1f64ed9b8416e463028f7f5825f952e): Deep cleanup: remove dead code, fix bugs, batch N+1 queries · 18h ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/194ebc89cb55f1ab52f4c76b2a473e20cb226106): Add dashboard polish: dormant idle days, streak dates, repo … · 19h ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/9471f309957787da20ba2c6826ec1248b76f8d8a): Update collected data and generated dashboard · 19h ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/341463237e3a311ecf11da802163d4e1c2e03610): Redesign web UI with light/dark mode and responsive charts · 19h ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/991d67845ba4c1d50e8555166079c9b83761a564): Update workflows, Dockerfile, and dependencies · 19h ago
 - [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/f3c0d5513051fa37d8325fb8f2784b31066d9a29): Update index.html · 2d ago
 - [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/a6141e7365b406e1bb59026b507562bc44a7d2a4): Update index.html · 2d ago
 - [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/7474db68c44bb7d2bf4ebcd9e99ee7b7c70b1d15): edit onboarding · 2d ago
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 4 · Python
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 4 · Python
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
 - **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
-- **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 
 ---
 ## Recent Activity
