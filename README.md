@@ -8,11 +8,11 @@
 </div>
 
 ## Quick Stats
-⭐ 26 stars · 29 repos · 14 contributions this week · Updated Jun 12, 2026, 03:22 PM
+⭐ 26 stars · 29 repos · 14 contributions this week · Updated Jun 12, 2026, 08:14 PM
 
 ---
 ## Recent Commits
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/74c19dd8c1f64ed9b8416e463028f7f5825f952e): Deep cleanup: remove dead code, fix bugs, batch N+1 queries · 1d ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/74c19dd8c1f64ed9b8416e463028f7f5825f952e): Deep cleanup: remove dead code, fix bugs, batch N+1 queries · 2d ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/194ebc89cb55f1ab52f4c76b2a473e20cb226106): Add dashboard polish: dormant idle days, streak dates, repo … · 2d ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/9471f309957787da20ba2c6826ec1248b76f8d8a): Update collected data and generated dashboard · 2d ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/341463237e3a311ecf11da802163d4e1c2e03610): Redesign web UI with light/dark mode and responsive charts · 2d ago
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 4 · Python
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
 - **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 1 · Python
-- **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — Automated scraper and static-site generator for WTW Cinemas … · ⭐ 2 · Python
 
 ---
 ## Recent Activity
