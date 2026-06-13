@@ -8,40 +8,40 @@
 </div>
 
 ## Quick Stats
-⭐ 26 stars · 29 repos · 14 contributions this week · Updated Jun 13, 2026, 04:07 AM
+⭐ 26 stars · 29 repos · 25 contributions this week · Updated Jun 13, 2026, 09:20 AM
 
 ---
 ## Recent Commits
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/74c19dd8c1f64ed9b8416e463028f7f5825f952e): Deep cleanup: remove dead code, fix bugs, batch N+1 queries · 2d ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/194ebc89cb55f1ab52f4c76b2a473e20cb226106): Add dashboard polish: dormant idle days, streak dates, repo … · 2d ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/9471f309957787da20ba2c6826ec1248b76f8d8a): Update collected data and generated dashboard · 2d ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/341463237e3a311ecf11da802163d4e1c2e03610): Redesign web UI with light/dark mode and responsive charts · 2d ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/991d67845ba4c1d50e8555166079c9b83761a564): Update workflows, Dockerfile, and dependencies · 2d ago
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/f3c0d5513051fa37d8325fb8f2784b31066d9a29): Update index.html · 4d ago
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/a6141e7365b406e1bb59026b507562bc44a7d2a4): Update index.html · 4d ago
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/7474db68c44bb7d2bf4ebcd9e99ee7b7c70b1d15): edit onboarding · 4d ago
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/7066d35f4a1efc9d4a700688a30ea15badf5df00): remove filter on results page · 4d ago
-- [SubSleuth](https://github.com/evenwebb/SubSleuth/commit/8ddc5d781bdc2283dce13b0ad1473dd810a4bfb4): actions fixes · 4d ago
+- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/8810ce1a730594390e1c755142dbcb549aecd975): Add Google Calendar per-film link on detail pages · 1d ago
+- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/33ff918d6ac90a96808fd15082bf78da45921cb0): Add Google Calendar per-film link on detail pages · 1d ago
+- [penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper/commit/78bf61c740c6b633f6394037841fb309290bccb1): Add academic year overview calendar grid · 1d ago
+- [merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar/commit/4f4b2a99d3a4bb17b84180c0e40f2f9e88728572): Add TMDb retry logic and synopsis navigation guard · 1d ago
+- [wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar/commit/3595de3e9d70987b13382713b7180918982b77bf): Fix date parsing and narrow exception handling in TMDb enric… · 1d ago
+- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/251ce5a393f87ad39b7a0a7529f53091c63deacb): Fix undefined esc() calls, RBO season, and health check edge… · 1d ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/532163ad655a65712ba5cd2b783a68a6288f45b4): Fix XSS in film titles, RBO season regex, and date parsing · 1d ago
+- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/5fe6ee409e2c212ba84bc5f68c8eddf0279b5d82): Add ordinal date suffix handling and fix missing re import · 1d ago
+- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/654b102788508ee5a64b3a1405a6189bbee2ce8f): Add region ICS feeds, fix SEQUENCE tracking, and improve sec… · 1d ago
+- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/2ce57633a8d6b7323c427e2250cd26a2a8619407): Fix whats-on URLs, atomic cache writes, and health check ord… · 1d ago
 
 ---
 ## Recently Updated Repos
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 4 · Python
-- **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
-- **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
-- **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
-- **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
+- **[merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)** — Scrapes upcoming film releases from Merlin Cinemas across Co… · ⭐ 1 · Python
+- **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
 - **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 1 · Python
+- **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — Automated scraper and static-site generator for WTW Cinemas … · ⭐ 2 · Python
+- **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
+- **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
 
 ---
 ## Recent Activity
-- Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
-- Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-- Pushed to [evenwebb/SubSleuth](https://github.com/evenwebb/SubSleuth)
-- Starred [github/spec-kit](https://github.com/github/spec-kit)
-- Pushed to [evenwebb/unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)
-- Starred [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs)
-- Starred [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server)
+- Pushed to [evenwebb/merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)
+- Pushed to [evenwebb/wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)
+- Pushed to [evenwebb/merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)
+- Pushed to [evenwebb/wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)
+- Pushed to [evenwebb/merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)
 - Pushed to [evenwebb/wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)
+- Pushed to [evenwebb/cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)
+- Pushed to [evenwebb/stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)
 
 ---
 # 📊 GitHub Stats
