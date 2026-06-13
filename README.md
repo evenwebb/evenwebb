@@ -8,40 +8,40 @@
 </div>
 
 ## Quick Stats
-⭐ 26 stars · 29 repos · 25 contributions this week · Updated Jun 13, 2026, 09:20 AM
+⭐ 26 stars · 29 repos · 60 contributions this week · Updated Jun 13, 2026, 02:06 PM
 
 ---
 ## Recent Commits
-- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/8810ce1a730594390e1c755142dbcb549aecd975): Add Google Calendar per-film link on detail pages · 1d ago
-- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/33ff918d6ac90a96808fd15082bf78da45921cb0): Add Google Calendar per-film link on detail pages · 1d ago
-- [penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper/commit/78bf61c740c6b633f6394037841fb309290bccb1): Add academic year overview calendar grid · 1d ago
-- [merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar/commit/4f4b2a99d3a4bb17b84180c0e40f2f9e88728572): Add TMDb retry logic and synopsis navigation guard · 1d ago
-- [wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar/commit/3595de3e9d70987b13382713b7180918982b77bf): Fix date parsing and narrow exception handling in TMDb enric… · 1d ago
-- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/251ce5a393f87ad39b7a0a7529f53091c63deacb): Fix undefined esc() calls, RBO season, and health check edge… · 1d ago
-- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/532163ad655a65712ba5cd2b783a68a6288f45b4): Fix XSS in film titles, RBO season regex, and date parsing · 1d ago
-- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/5fe6ee409e2c212ba84bc5f68c8eddf0279b5d82): Add ordinal date suffix handling and fix missing re import · 1d ago
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/654b102788508ee5a64b3a1405a6189bbee2ce8f): Add region ICS feeds, fix SEQUENCE tracking, and improve sec… · 1d ago
-- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/2ce57633a8d6b7323c427e2250cd26a2a8619407): Fix whats-on URLs, atomic cache writes, and health check ord… · 1d ago
+- [penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper/commit/a8fa340ccacec3494e0da4c648a9f6c71f7c33a5): Remove pip cache from setup-python when using uv · 1h ago
+- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/ba36846fb2c84d2b4cfd6e54d415342cdc1e54d8): Remove pip cache from setup-python when using uv · 1h ago
+- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/0720e0c7a6725e48e702bf02ddf907c751ac0cb0): Remove pip cache from setup-python when using uv · 1h ago
+- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/01942ac16e111e7db28f294308507e89b068fee5): Remove pip cache from setup-python when using uv · 1h ago
+- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/05e5a7a536176ad44e26250017e07a31062854c2): Remove pip cache from setup-python when using uv · 1h ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/1ff4f58a07113c34f3e3f60175158ef702a56ed9): Remove pip cache from setup-python when using uv · 1h ago
+- [merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar/commit/cfcb766b06c923359b2c4133e9832a1c30408ac0): Remove pip cache from setup-python when using uv · 1h ago
+- [wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar/commit/7c71d158a7972b2153cb7205847453c53ac4f409): Remove pip cache from setup-python when using uv · 1h ago
+- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/697b560c676d7f8af07ec2e2ece5130cb7462c10): Add missing html_templates imports · 2h ago
+- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/d6f6ee5f5337437da48c3b22948c51a6b50e45c7): Add missing html_templates imports · 2h ago
 
 ---
 ## Recently Updated Repos
-- **[merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)** — Scrapes upcoming film releases from Merlin Cinemas across Co… · ⭐ 1 · Python
-- **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
-- **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 1 · Python
 - **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — Automated scraper and static-site generator for WTW Cinemas … · ⭐ 2 · Python
-- **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
+- **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 1 · Python
 - **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
+- **[wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)** — A Python script that scrapes upcoming film releases from the… · ⭐ 1 · Python
+- **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
+- **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
-- Pushed to [evenwebb/merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)
-- Pushed to [evenwebb/wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)
+- Pushed to [evenwebb/penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)
+- Pushed to [evenwebb/stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)
+- Pushed to [evenwebb/wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)
+- Pushed to [evenwebb/merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)
 - Pushed to [evenwebb/merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)
 - Pushed to [evenwebb/wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)
-- Pushed to [evenwebb/merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)
-- Pushed to [evenwebb/wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)
-- Pushed to [evenwebb/cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)
-- Pushed to [evenwebb/stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)
+- Pushed to [evenwebb/merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)
+- Pushed to [evenwebb/wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)
 
 ---
 # 📊 GitHub Stats
