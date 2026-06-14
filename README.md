@@ -8,40 +8,40 @@
 </div>
 
 ## Quick Stats
-⭐ 27 stars · 29 repos · 76 contributions this week · Updated Jun 14, 2026, 09:40 AM
+⭐ 27 stars · 29 repos · 86 contributions this week · Updated Jun 14, 2026, 02:10 PM
 
 ---
 ## Recent Commits
-- [youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper/commit/1486b5573b926fff158c7f87071be767e3f20340): Remove dead ScrapeResult dataclass and unused field import · 9m ago
-- [youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper/commit/de96b9e77b36185310f6f82200dd695d05aaeb54): Add parallel scraping, dead link checking, change diffing, H… · 11m ago
-- [youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper/commit/58bc7f98f1c33184e7f216c4a80afb5e03479c76): Full rewrite: 30 improvements to YouTube channel link scrape… · 19m ago
-- [youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper/commit/51826c1cc7719a074ba4d4b7006faaeeba22ff4b): Add CI workflow, Dependabot, and project metadata · 28m ago
-- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/4d05d5603e62ebd47e13d0e5e38b7d8f28b01d13): Update GitHub Actions versions, pin runner, expand OS multip… · 33m ago
-- [stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar/commit/bb55ba62ae09f455bf48d358e1c8f055439634a0): Fix meeting discovery, add venue extraction, add Polgooth Pl… · 11h ago
-- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/b18bf206e6594d937def54d03ace16a964c8f57f): Fix import regression, add missing tag icons, Event Cinema, … · 11h ago
-- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/8c8892e63c340d79026d345eded6d6d02515f2de): Add missing accessibility and screening tags to film detecti… · 11h ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/4c62148e572a5230d0d4f987cf19aa69b8d70439): Regenerate game detail pages and website assets with updated… · 12h ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/d73a631c07699d7b75c19ab9de1145b348e9a72f): Complete API field audit: extract all available Epic fields,… · 12h ago
+- [wtw-whats-on](https://github.com/evenwebb/wtw-whats-on/commit/41e353e4792b3bb564adee48163ec107ea0c711f): Fix --muted CSS, unreachable code, screen default, runtime p… · 2h ago
+- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/7cf1056bfc755eb2696302a82b0c640caddb9b6d): Fix html_templates NameError bugs with shared_constants, pip… · 2h ago
+- [penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper/commit/fbdcdbee0a9772367f19869b4783c81cd451faa0): Fix _should_skip_line prefix matching, half-term week expans… · 2h ago
+- [OctoCal](https://github.com/evenwebb/OctoCal/commit/8e48bc0215722e2a931e24c7ce0180b766664419): Fix --dry-run, midnight/noon parsing, timezone to Europe/Lon… · 2h ago
+- [merlin-whats-on](https://github.com/evenwebb/merlin-whats-on/commit/6e5ad6e02f1e5b5001877385c9d33d918bc8af51): Fix undefined --muted CSS, .showtime selector typo, thread-s… · 2h ago
+- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/bffcf94c82fa20de6cbb4a68ec6aeee6f4ede6b0): Fix NameError crash with events_json_data, pipefail in CI, J… · 2h ago
+- [patreon-video-scraper](https://github.com/evenwebb/patreon-video-scraper/commit/fc23259139a1925f6e1364b4cf05955f85d120e7): Fix Vimeo privacy hash stripping, add retry logic, atomic wr… · 4h ago
+- [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/f1b0c8bc67afaad69cbc8bd9558b8a36918e737b): Add CreatorInfo and UserInfo typed dicts, make ParsedNotific… · 4h ago
+- [patreon-video-scraper](https://github.com/evenwebb/patreon-video-scraper/commit/c362dab8db8b85ae2da17498e20c645e3722ef06): Add CI, Dependabot, --version, --dry-run, fix multiple issue… · 4h ago
+- [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/f6521a6aac68a3baff74356717be141b0b5697e7): Fix bugs, add --version/--stats, update CI, add Dependabot · 4h ago
 
 ---
 ## Recently Updated Repos
-- **[youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper)** — A small Python utility that reads the subscriptions.csv file… · ⭐ 1 · Python
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
-- **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
+- **[wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)** — Automated scraper and static-site generator for WTW Cinemas … · ⭐ 2 · Python
+- **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
+- **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
+- **[OctoCal](https://github.com/evenwebb/OctoCal)** — OctoCal automatically scrapes the Octopus Energy website for… · ⭐ 1 · HTML
+- **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
-- Pushed to [evenwebb/youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper)
-- Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
-- Pushed to [evenwebb/stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)
-- Pushed to [evenwebb/merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)
+- Pushed to [evenwebb/wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)
 - Pushed to [evenwebb/wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)
-- Pushed to [evenwebb/epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)
-- Pushed to [evenwebb/epic-free-games-notifier](https://github.com/evenwebb/epic-free-games-notifier)
+- Pushed to [evenwebb/penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)
 - Pushed to [evenwebb/OctoCal](https://github.com/evenwebb/OctoCal)
+- Pushed to [evenwebb/merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)
+- Pushed to [evenwebb/tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)
+- Pushed to [evenwebb/patreon-video-scraper](https://github.com/evenwebb/patreon-video-scraper)
+- Pushed to [evenwebb/patreon-notifier](https://github.com/evenwebb/patreon-notifier)
 
 ---
 # 📊 GitHub Stats
