@@ -8,29 +8,29 @@
 </div>
 
 ## Quick Stats
-⭐ 27 stars · 29 repos · 100 contributions this week · Updated Jun 16, 2026, 05:00 PM
+⭐ 27 stars · 29 repos · 100 contributions this week · Updated Jun 16, 2026, 08:55 PM
 
 ---
 ## Recent Commits
-- [Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin/commit/5a157ba0f5fbda11a1dea3775d6e7d5b955be2e4): Fix 23 issues: window sizing, happiness write safety, auto-s… · 17h ago
-- [Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin/commit/2d37b4c768d18bc987188d353201c7d4e837461d): Complete rewrite: fix 31 issues — deduplication, settings pe… · 17h ago
-- [ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter/commit/edd386f6b80b1d2a62af6cb888b4cda0ee67d464): Comprehensive fix: race conditions, memory leaks, duplicate … · 20h ago
-- [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/8b5f3a24dcb254ac9dec6f8a00343fe158e95165): Comprehensive fix: race conditions, memory leaks, duplicate … · 20h ago
-- [ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter/commit/702a93fc25558f7f3f1423b2801f82f929264d5d): Add coupon value tracking, configurable delay, skip claimed … · 20h ago
-- [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/fac8939263c4f8c0464e30496097857f3ba91555): Add coupon value tracking, configurable delay, skip claimed … · 20h ago
-- [ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter/commit/98267265f9e5f27081b695ae46b181ae894522f1): Fix previewMode timeout bug, add .gitignore, clean up permis… · 20h ago
-- [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/2d299d229b67374ad587b8b608cc06bda15c9984): Fix previewMode timeout bug, add .gitignore, clean up permis… · 20h ago
-- [epic-free-games-notifier](https://github.com/evenwebb/epic-free-games-notifier/commit/232c235f4572b6549d889e8668eadda127dd1f28): Update README: add emojis and document recent features · 20h ago
-- [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/53c4274fba6505d187f020e46ec54d6d267aad98): Update README: add emojis and document recent features · 20h ago
+- [Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin/commit/5a157ba0f5fbda11a1dea3775d6e7d5b955be2e4): Fix 23 issues: window sizing, happiness write safety, auto-s… · 21h ago
+- [Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin/commit/2d37b4c768d18bc987188d353201c7d4e837461d): Complete rewrite: fix 31 issues — deduplication, settings pe… · 21h ago
+- [ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter/commit/edd386f6b80b1d2a62af6cb888b4cda0ee67d464): Comprehensive fix: race conditions, memory leaks, duplicate … · 1d ago
+- [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/8b5f3a24dcb254ac9dec6f8a00343fe158e95165): Comprehensive fix: race conditions, memory leaks, duplicate … · 1d ago
+- [ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter/commit/702a93fc25558f7f3f1423b2801f82f929264d5d): Add coupon value tracking, configurable delay, skip claimed … · 1d ago
+- [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/fac8939263c4f8c0464e30496097857f3ba91555): Add coupon value tracking, configurable delay, skip claimed … · 1d ago
+- [ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter/commit/98267265f9e5f27081b695ae46b181ae894522f1): Fix previewMode timeout bug, add .gitignore, clean up permis… · 1d ago
+- [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/2d299d229b67374ad587b8b608cc06bda15c9984): Fix previewMode timeout bug, add .gitignore, clean up permis… · 1d ago
+- [epic-free-games-notifier](https://github.com/evenwebb/epic-free-games-notifier/commit/232c235f4572b6549d889e8668eadda127dd1f28): Update README: add emojis and document recent features · 1d ago
+- [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/53c4274fba6505d187f020e46ec54d6d267aad98): Update README: add emojis and document recent features · 1d ago
 
 ---
 ## Recently Updated Repos
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — Never miss a Tesla Owners UK event — track days, meetups, AG… · ⭐ 1 · Python
 - **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 1 · Python
 - **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin)** — A comprehensive OpenRCT2 plugin that helps manage guests who… · ⭐ 1 · JavaScript
-- **[ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter)** — Chromium & Firefox Extension that highlights orders needing … · ⭐ 1 · JavaScript
 
 ---
 ## Recent Activity
