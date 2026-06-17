@@ -8,20 +8,20 @@
 </div>
 
 ## Quick Stats
-⭐ 27 stars · 29 repos · 100 contributions this week · Updated Jun 16, 2026, 08:55 PM
+⭐ 27 stars · 29 repos · 98 contributions this week · Updated Jun 17, 2026, 04:25 AM
 
 ---
 ## Recent Commits
-- [Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin/commit/5a157ba0f5fbda11a1dea3775d6e7d5b955be2e4): Fix 23 issues: window sizing, happiness write safety, auto-s… · 21h ago
-- [Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin/commit/2d37b4c768d18bc987188d353201c7d4e837461d): Complete rewrite: fix 31 issues — deduplication, settings pe… · 21h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/98c62d2e2e072348c29652c1b72239005f2d8513): Show game value/price in Complete History timeline cards · 3h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/1f8c407941306244ab9fa4d914ff8204795df1f0): Fix theme toggle button hidden behind GitHub corner banner · 3h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/97c9a3f26f7ecc88211acb4ca4ae72786a571ff1): Add Epic CDN images for Sunderfolk, Calico, Songs of Conques… · 3h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/a72207d5de0cdcd011a18eb4bfad46bd1e5071ec): Replace Down in Bermuda with Epic CDN image; remove Steam im… · 4h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/7b3e2901edb824cf3e6085e28e8aafae7dc831a8): Replace 4 Steam images with official Epic Games CDN artwork · 4h ago
+- [Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin/commit/5a157ba0f5fbda11a1dea3775d6e7d5b955be2e4): Fix 23 issues: window sizing, happiness write safety, auto-s… · 1d ago
+- [Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin/commit/2d37b4c768d18bc987188d353201c7d4e837461d): Complete rewrite: fix 31 issues — deduplication, settings pe… · 1d ago
 - [ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter/commit/edd386f6b80b1d2a62af6cb888b4cda0ee67d464): Comprehensive fix: race conditions, memory leaks, duplicate … · 1d ago
 - [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/8b5f3a24dcb254ac9dec6f8a00343fe158e95165): Comprehensive fix: race conditions, memory leaks, duplicate … · 1d ago
 - [ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter/commit/702a93fc25558f7f3f1423b2801f82f929264d5d): Add coupon value tracking, configurable delay, skip claimed … · 1d ago
-- [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/fac8939263c4f8c0464e30496097857f3ba91555): Add coupon value tracking, configurable delay, skip claimed … · 1d ago
-- [ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter/commit/98267265f9e5f27081b695ae46b181ae894522f1): Fix previewMode timeout bug, add .gitignore, clean up permis… · 1d ago
-- [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/2d299d229b67374ad587b8b608cc06bda15c9984): Fix previewMode timeout bug, add .gitignore, clean up permis… · 1d ago
-- [epic-free-games-notifier](https://github.com/evenwebb/epic-free-games-notifier/commit/232c235f4572b6549d889e8668eadda127dd1f28): Update README: add emojis and document recent features · 1d ago
-- [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/53c4274fba6505d187f020e46ec54d6d267aad98): Update README: add emojis and document recent features · 1d ago
 
 ---
 ## Recently Updated Repos
@@ -34,14 +34,14 @@
 
 ---
 ## Recent Activity
+- Pushed to [evenwebb/epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)
+- Opened PR in [evenwebb/epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)
 - Pushed to [evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin)
 - Pushed to [evenwebb/ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter)
 - Pushed to [evenwebb/AliClaimer](https://github.com/evenwebb/AliClaimer)
 - Pushed to [evenwebb/epic-free-games-notifier](https://github.com/evenwebb/epic-free-games-notifier)
 - Pushed to [evenwebb/patreon-notifier](https://github.com/evenwebb/patreon-notifier)
 - Pushed to [evenwebb/OctoCal](https://github.com/evenwebb/OctoCal)
-- Pushed to [evenwebb/wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)
-- Pushed to [evenwebb/merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)
 
 ---
 # 📊 GitHub Stats
