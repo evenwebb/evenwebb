@@ -8,15 +8,15 @@
 </div>
 
 ## Quick Stats
-⭐ 27 stars · 29 repos · 98 contributions this week · Updated Jun 17, 2026, 11:03 AM
+⭐ 27 stars · 29 repos · 98 contributions this week · Updated Jun 17, 2026, 03:41 PM
 
 ---
 ## Recent Commits
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/765ece5c02dc73c3f01a1eed13e28de4a513ccf4): Redesign game detail pages, link cards to detail pages, impr… · 3m ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/347aecd40020aa0a4300f266e1ad1609bd2d79e2): docs: regenerate README with current stats and correct scrip… · 22m ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/98c62d2e2e072348c29652c1b72239005f2d8513): Show game value/price in Complete History timeline cards · 10h ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/1f8c407941306244ab9fa4d914ff8204795df1f0): Fix theme toggle button hidden behind GitHub corner banner · 10h ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/97c9a3f26f7ecc88211acb4ca4ae72786a571ff1): Add Epic CDN images for Sunderfolk, Calico, Songs of Conques… · 10h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/cc4100a94a24b215114667719170f52dc690afe2): Shorter detail URLs (first 8 chars of epicId), reduced heade… · 2h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/8167708539dfcdb99c6705e627eb7b652e0e7f69): Stats grid: single-row auto-fit layout instead of fixed 2-co… · 2h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/d6ed0cb25e2716cf35cc512f729b1ba174a5cdf4): SEO-friendly detail URLs, compact stats, clean meta line: re… · 2h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/f69e9119b61fb874acc9624edadce38c4e54906f): Clean up detail page tags: filter numeric IDs, remove intern… · 2h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/b61bddf310a94419b4e71034ea562ccd46a5c1a5): Fix promo timeline: show single date-range entry instead of … · 3h ago
 - [Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin/commit/5a157ba0f5fbda11a1dea3775d6e7d5b955be2e4): Fix 23 issues: window sizing, happiness write safety, auto-s… · 1d ago
 - [Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin/commit/2d37b4c768d18bc987188d353201c7d4e837461d): Complete rewrite: fix 31 issues — deduplication, settings pe… · 1d ago
 - [ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter/commit/edd386f6b80b1d2a62af6cb888b4cda0ee67d464): Comprehensive fix: race conditions, memory leaks, duplicate … · 1d ago
@@ -25,11 +25,11 @@
 
 ---
 ## Recently Updated Repos
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — Never miss a Tesla Owners UK event — track days, meetups, AG… · ⭐ 1 · Python
 - **[merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)** — Scrapes Merlin Cinemas Cornwall listings, enriches films wit… · ⭐ 1 · Python
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin)** — A comprehensive OpenRCT2 plugin that helps manage guests who… · ⭐ 1 · JavaScript
 
 ---
