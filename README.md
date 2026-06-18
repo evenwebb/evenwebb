@@ -8,40 +8,40 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 24 repos · 98 contributions this week · Updated Jun 17, 2026, 08:17 PM
+⭐ 22 stars · 24 repos · 98 contributions this week · Updated Jun 18, 2026, 04:19 AM
 
 ---
 ## Recent Commits
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/cc4100a94a24b215114667719170f52dc690afe2): Shorter detail URLs (first 8 chars of epicId), reduced heade… · 6h ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/8167708539dfcdb99c6705e627eb7b652e0e7f69): Stats grid: single-row auto-fit layout instead of fixed 2-co… · 6h ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/d6ed0cb25e2716cf35cc512f729b1ba174a5cdf4): SEO-friendly detail URLs, compact stats, clean meta line: re… · 6h ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/f69e9119b61fb874acc9624edadce38c4e54906f): Clean up detail page tags: filter numeric IDs, remove intern… · 7h ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/b61bddf310a94419b4e71034ea562ccd46a5c1a5): Fix promo timeline: show single date-range entry instead of … · 7h ago
-- [Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin/commit/5a157ba0f5fbda11a1dea3775d6e7d5b955be2e4): Fix 23 issues: window sizing, happiness write safety, auto-s… · 1d ago
-- [Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin/commit/2d37b4c768d18bc987188d353201c7d4e837461d): Complete rewrite: fix 31 issues — deduplication, settings pe… · 1d ago
-- [ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter/commit/edd386f6b80b1d2a62af6cb888b4cda0ee67d464): Comprehensive fix: race conditions, memory leaks, duplicate … · 1d ago
-- [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/8b5f3a24dcb254ac9dec6f8a00343fe158e95165): Comprehensive fix: race conditions, memory leaks, duplicate … · 1d ago
-- [ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter/commit/702a93fc25558f7f3f1423b2801f82f929264d5d): Add coupon value tracking, configurable delay, skip claimed … · 1d ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8ba82b803f9f3fd6d87f49d71c40e2137b0576d6): fixes · 3h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/53c58a9108182c539f8377c254860c5770d1ca98): fixes · 3h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/f02f0beb63f80cd94fb18df02da972f939d5a59e): fixes · 3h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/ec4823b9e2fd7ac875637dcda6065cef5af20c64): fixes · 3h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/1a9396b654a9d4602d003aa8aa8cad9abcd8531d): fixes · 3h ago
+- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/a8c02dcf6507cd92622c7c83b9fc7c7b52555b4a): tweaks and updates · 4h ago
+- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/b4c0672ebcc27b84cbe2312718d04fd63455fe1c): Update nzbget-scripts-updater.sh · 4h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/cc4100a94a24b215114667719170f52dc690afe2): Shorter detail URLs (first 8 chars of epicId), reduced heade… · 14h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/8167708539dfcdb99c6705e627eb7b652e0e7f69): Stats grid: single-row auto-fit layout instead of fixed 2-co… · 14h ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/d6ed0cb25e2716cf35cc512f729b1ba174a5cdf4): SEO-friendly detail URLs, compact stats, clean meta line: re… · 15h ago
 
 ---
 ## Recently Updated Repos
+- **[unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)** — Collection of my custom User Scripts for use with Unraid · ⭐ 1 · Shell
+- **[nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts)** — Scripts to improve NZBGet automation and your Sonarr/Radarr … · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin)** — A comprehensive OpenRCT2 plugin that helps manage guests who… · ⭐ 1 · JavaScript
-- **[ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter)** — Chromium & Firefox Extension that highlights orders needing … · ⭐ 1 · JavaScript
 
 ---
 ## Recent Activity
+- Pushed to [evenwebb/unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)
+- Pushed to [evenwebb/nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts)
 - Pushed to [evenwebb/merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)
 - Pushed to [evenwebb/merlin-whats-on](https://github.com/evenwebb/merlin-whats-on)
 - Pushed to [evenwebb/wtw-cinemas-calendar](https://github.com/evenwebb/wtw-cinemas-calendar)
 - Pushed to [evenwebb/wtw-whats-on](https://github.com/evenwebb/wtw-whats-on)
 - Pushed to [evenwebb/epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)
 - Opened PR in [evenwebb/epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)
-- Pushed to [evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin](https://github.com/evenwebb/Broke-Guest-Manager-OpenRCT2-Plugin)
-- Pushed to [evenwebb/ebay-orders-highlighter](https://github.com/evenwebb/ebay-orders-highlighter)
 
 ---
 # 📊 GitHub Stats
