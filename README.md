@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 24 repos · 98 contributions this week · Updated Jun 19, 2026, 10:42 AM
+⭐ 22 stars · 24 repos · 98 contributions this week · Updated Jun 19, 2026, 03:27 PM
 
 ---
 ## Recent Commits
@@ -19,16 +19,16 @@
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/ec4823b9e2fd7ac875637dcda6065cef5af20c64): fixes · 1d ago
 - [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/a8c02dcf6507cd92622c7c83b9fc7c7b52555b4a): tweaks and updates · 1d ago
 - [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/b4c0672ebcc27b84cbe2312718d04fd63455fe1c): Update nzbget-scripts-updater.sh · 1d ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/cc4100a94a24b215114667719170f52dc690afe2): Shorter detail URLs (first 8 chars of epicId), reduced heade… · 1d ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/8167708539dfcdb99c6705e627eb7b652e0e7f69): Stats grid: single-row auto-fit layout instead of fixed 2-co… · 1d ago
-- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/d6ed0cb25e2716cf35cc512f729b1ba174a5cdf4): SEO-friendly detail URLs, compact stats, clean meta line: re… · 1d ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/cc4100a94a24b215114667719170f52dc690afe2): Shorter detail URLs (first 8 chars of epicId), reduced heade… · 2d ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/8167708539dfcdb99c6705e627eb7b652e0e7f69): Stats grid: single-row auto-fit layout instead of fixed 2-co… · 2d ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/d6ed0cb25e2716cf35cc512f729b1ba174a5cdf4): SEO-friendly detail URLs, compact stats, clean meta line: re… · 2d ago
 
 ---
 ## Recently Updated Repos
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)** — Collection of my custom User Scripts for use with Unraid · ⭐ 1 · Shell
 - **[nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts)** — Scripts to improve NZBGet automation and your Sonarr/Radarr … · ⭐ 1 · Python
 
