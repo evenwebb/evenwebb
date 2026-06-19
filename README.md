@@ -8,11 +8,11 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 24 repos · 98 contributions this week · Updated Jun 19, 2026, 04:47 AM
+⭐ 22 stars · 24 repos · 98 contributions this week · Updated Jun 19, 2026, 10:42 AM
 
 ---
 ## Recent Commits
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/a8e2f3d95527183a3dd97ed965166f1982f6318a): updates · 18h ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/a8e2f3d95527183a3dd97ed965166f1982f6318a): updates · 1d ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8ba82b803f9f3fd6d87f49d71c40e2137b0576d6): fixes · 1d ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/53c58a9108182c539f8377c254860c5770d1ca98): fixes · 1d ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/f02f0beb63f80cd94fb18df02da972f939d5a59e): fixes · 1d ago
@@ -25,11 +25,11 @@
 
 ---
 ## Recently Updated Repos
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
 - **[unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)** — Collection of my custom User Scripts for use with Unraid · ⭐ 1 · Shell
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts)** — Scripts to improve NZBGet automation and your Sonarr/Radarr … · ⭐ 1 · Python
 
 ---
