@@ -8,17 +8,17 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 24 repos · 98 contributions this week · Updated Jun 19, 2026, 07:52 PM
+⭐ 22 stars · 24 repos · 98 contributions this week · Updated Jun 20, 2026, 04:01 AM
 
 ---
 ## Recent Commits
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/a8e2f3d95527183a3dd97ed965166f1982f6318a): updates · 1d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8ba82b803f9f3fd6d87f49d71c40e2137b0576d6): fixes · 1d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/53c58a9108182c539f8377c254860c5770d1ca98): fixes · 1d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/f02f0beb63f80cd94fb18df02da972f939d5a59e): fixes · 1d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/ec4823b9e2fd7ac875637dcda6065cef5af20c64): fixes · 1d ago
-- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/a8c02dcf6507cd92622c7c83b9fc7c7b52555b4a): tweaks and updates · 1d ago
-- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/b4c0672ebcc27b84cbe2312718d04fd63455fe1c): Update nzbget-scripts-updater.sh · 1d ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8ba82b803f9f3fd6d87f49d71c40e2137b0576d6): fixes · 2d ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/53c58a9108182c539f8377c254860c5770d1ca98): fixes · 2d ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/f02f0beb63f80cd94fb18df02da972f939d5a59e): fixes · 2d ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/ec4823b9e2fd7ac875637dcda6065cef5af20c64): fixes · 2d ago
+- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/a8c02dcf6507cd92622c7c83b9fc7c7b52555b4a): tweaks and updates · 2d ago
+- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/b4c0672ebcc27b84cbe2312718d04fd63455fe1c): Update nzbget-scripts-updater.sh · 2d ago
 - [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/cc4100a94a24b215114667719170f52dc690afe2): Shorter detail URLs (first 8 chars of epicId), reduced heade… · 2d ago
 - [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/8167708539dfcdb99c6705e627eb7b652e0e7f69): Stats grid: single-row auto-fit layout instead of fixed 2-co… · 2d ago
 - [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/d6ed0cb25e2716cf35cc512f729b1ba174a5cdf4): SEO-friendly detail URLs, compact stats, clean meta line: re… · 2d ago
