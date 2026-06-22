@@ -8,15 +8,15 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 97 contributions this week · Updated Jun 22, 2026, 12:10 PM
+⭐ 22 stars · 25 repos · 89 contributions this week · Updated Jun 22, 2026, 08:52 PM
 
 ---
 ## Recent Commits
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/e794f16d4c7568b70b12a7f4fa182ba3c773d3f2): Fix profile matching: bundle IDs, alternate_bundle_ids, vali… · 50m ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/7d7a9292a45811a352c2d784bbcdb152657d14a7): Add 31 free app profiles: Zen Browser, LibreWolf, draw.io, I… · 1h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/c6b9fe6e2812ba2e345dc0002310cf5094aedcdb): Fix CI: prevent spurious manifest timestamp changes + 7 prof… · 1h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/911d640c4ea1773859cb97a6aa602afc642eb6b4): Fix 11 more profiles with researched URLs: Trello, Airtable,… · 1h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/9f31c834b1cd451cbd98927175a33e2ef2f565cc): Fix profile URLs from research: Nova, Transmit, Downie, Scre… · 1h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/646e1062bcaca21e5b9258ef132d83b387ec16b3): Smart download resolver + 16 new icons + 10 more bug fixes · 2h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/71a84f16827e067c88f97791f11eb3f32f638478): Enhanced audit: build numbers, Electron/Sparkle detection + … · 2h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/fa2941115b1914af02fa03f02e1ed817c888b2f7): Bulk extract+audit: 69 app icons + 43 profile bug fixes · 3h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/d46fe017d5bb57785ebc6a7c410867fef1945869): Add audit mode to extract_icons: verifies bundle_id, min_os,… · 3h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/85d0e4393981e4eeaeeca719b64d8fd5726fa3a6): Add extract_icons_linux.py + 11 extracted app icons · 3h ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/a8e2f3d95527183a3dd97ed965166f1982f6318a): updates · 4d ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8ba82b803f9f3fd6d87f49d71c40e2137b0576d6): fixes · 4d ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/53c58a9108182c539f8377c254860c5770d1ca98): fixes · 4d ago
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)** — Community-maintained macOS app update profiles for MacUpdate… · ⭐ 0 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
+- **[MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)** — Community-maintained macOS app update profiles for MacUpdate… · ⭐ 0 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
