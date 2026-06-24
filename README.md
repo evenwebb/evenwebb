@@ -8,12 +8,12 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 80 contributions this week · Updated Jun 24, 2026, 03:54 AM
+⭐ 22 stars · 25 repos · 80 contributions this week · Updated Jun 24, 2026, 09:36 AM
 
 ---
 ## Recent Commits
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/4856174aa5304b19621cc81ef2a80ba4fd203d5b): Update amazon-music.json · 10h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/a1943b0a95b0493efe847a3b9e5378270ad14c59): fix bugs · 11h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/4856174aa5304b19621cc81ef2a80ba4fd203d5b): Update amazon-music.json · 16h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/a1943b0a95b0493efe847a3b9e5378270ad14c59): fix bugs · 17h ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/560c5437c610711df1d660c98e00532103e7e43e): Bump schema_version to 3 across all profiles · 1d ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/646e1062bcaca21e5b9258ef132d83b387ec16b3): Smart download resolver + 16 new icons + 10 more bug fixes · 1d ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/71a84f16827e067c88f97791f11eb3f32f638478): Enhanced audit: build numbers, Electron/Sparkle detection + … · 1d ago
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)** — Community-maintained macOS app update profiles for MacUpdate… · ⭐ 0 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
