@@ -8,20 +8,20 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 67 contributions this week · Updated Jun 24, 2026, 07:50 PM
+⭐ 22 stars · 25 repos · 40 contributions this week · Updated Jun 25, 2026, 03:55 AM
 
 ---
 ## Recent Commits
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/4856174aa5304b19621cc81ef2a80ba4fd203d5b): Update amazon-music.json · 1d ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/a1943b0a95b0493efe847a3b9e5378270ad14c59): fix bugs · 1d ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/560c5437c610711df1d660c98e00532103e7e43e): Bump schema_version to 3 across all profiles · 1d ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/560c5437c610711df1d660c98e00532103e7e43e): Bump schema_version to 3 across all profiles · 2d ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/646e1062bcaca21e5b9258ef132d83b387ec16b3): Smart download resolver + 16 new icons + 10 more bug fixes · 2d ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/71a84f16827e067c88f97791f11eb3f32f638478): Enhanced audit: build numbers, Electron/Sparkle detection + … · 2d ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/a8e2f3d95527183a3dd97ed965166f1982f6318a): updates · 6d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8ba82b803f9f3fd6d87f49d71c40e2137b0576d6): fixes · 6d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/53c58a9108182c539f8377c254860c5770d1ca98): fixes · 6d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/f02f0beb63f80cd94fb18df02da972f939d5a59e): fixes · 6d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/ec4823b9e2fd7ac875637dcda6065cef5af20c64): fixes · 6d ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8ba82b803f9f3fd6d87f49d71c40e2137b0576d6): fixes · 1w ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/53c58a9108182c539f8377c254860c5770d1ca98): fixes · 1w ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/f02f0beb63f80cd94fb18df02da972f939d5a59e): fixes · 1w ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/ec4823b9e2fd7ac875637dcda6065cef5af20c64): fixes · 1w ago
 
 ---
 ## Recently Updated Repos
