@@ -8,15 +8,15 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 48 contributions this week · Updated Jun 26, 2026, 04:02 AM
+⭐ 22 stars · 25 repos · 56 contributions this week · Updated Jun 26, 2026, 09:32 AM
 
 ---
 ## Recent Commits
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/0473dbbd8bfd57fe513a28bbe7c603516c729777): Add binary string search for Sparkle URLs when SUFeedURL not… · 3h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/d927be9fd1be3896764388dac556e134a9308075): Fix placeholder URLs for Raycast, Permute, Aftershoot, Eleph… · 4h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/7140beda5ae066662f334e56f099f4d97e1c5dea): Parser improvements: Sparkle dual-namespace, gzip, fallback … · 4h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/2416486e3acc203d1fe3b617e82b50660c9dad80): Fix 16 of 25 HTTP 404 profiles · 4h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/f8a05c596f83564940f8c97fae1a506abac9fbe3): Support GH_TOKEN env var (fallback from GITHUB_TOKEN) for lo… · 4h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/ec4036db5ef680ef88fc3ba087b5a98223a505dd): Final state: 211/224 healthy (94%) · 39m ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/262e30056d60a99c5f42f80344cbd51f39b47518): Final cleanup: fix WARP Sparkle URL, remove 5 BROKEN + 3 UNT… · 49m ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/d166f4107a1cbf0c0a43553683fe4f82e6242224): Remove 37 unfixable profiles (DMG, dead servers, parse error… · 1h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/5c2672e9c7fba36ed0fe27f8e816358d7ba2ff34): Fix DaisyDisk Sparkle URL: daisydiskapp.com/downloads/appcas… · 1h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/55651d806d923f2afb787a9f104b5759418c18fb): Fix Fantastical Sparkle URL: appcast2.php (was appcast.xml) · 1h ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/a8e2f3d95527183a3dd97ed965166f1982f6318a): updates · 1w ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8ba82b803f9f3fd6d87f49d71c40e2137b0576d6): fixes · 1w ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/53c58a9108182c539f8377c254860c5770d1ca98): fixes · 1w ago
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)** — Community-maintained macOS app update profiles for MacUpdate… · ⭐ 0 · Python
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
