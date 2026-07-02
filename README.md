@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 17 contributions this week · Updated Jul 1, 2026, 08:00 PM
+⭐ 22 stars · 25 repos · 17 contributions this week · Updated Jul 2, 2026, 03:53 AM
 
 ---
 ## Recent Commits
@@ -18,10 +18,10 @@
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/5c2672e9c7fba36ed0fe27f8e816358d7ba2ff34): Fix DaisyDisk Sparkle URL: daisydiskapp.com/downloads/appcas… · 5d ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/55651d806d923f2afb787a9f104b5759418c18fb): Fix Fantastical Sparkle URL: appcast2.php (was appcast.xml) · 5d ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/a8e2f3d95527183a3dd97ed965166f1982f6318a): updates · 1w ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8ba82b803f9f3fd6d87f49d71c40e2137b0576d6): fixes · 1w ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/53c58a9108182c539f8377c254860c5770d1ca98): fixes · 1w ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/f02f0beb63f80cd94fb18df02da972f939d5a59e): fixes · 1w ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/ec4823b9e2fd7ac875637dcda6065cef5af20c64): fixes · 1w ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8ba82b803f9f3fd6d87f49d71c40e2137b0576d6): fixes · 2w ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/53c58a9108182c539f8377c254860c5770d1ca98): fixes · 2w ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/f02f0beb63f80cd94fb18df02da972f939d5a59e): fixes · 2w ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/ec4823b9e2fd7ac875637dcda6065cef5af20c64): fixes · 2w ago
 
 ---
 ## Recently Updated Repos
