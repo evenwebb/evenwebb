@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 17 contributions this week · Updated Jul 2, 2026, 09:17 AM
+⭐ 22 stars · 25 repos · 17 contributions this week · Updated Jul 2, 2026, 02:08 PM
 
 ---
 ## Recent Commits
@@ -17,7 +17,7 @@
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/d166f4107a1cbf0c0a43553683fe4f82e6242224): Remove 37 unfixable profiles (DMG, dead servers, parse error… · 6d ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/5c2672e9c7fba36ed0fe27f8e816358d7ba2ff34): Fix DaisyDisk Sparkle URL: daisydiskapp.com/downloads/appcas… · 6d ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/55651d806d923f2afb787a9f104b5759418c18fb): Fix Fantastical Sparkle URL: appcast2.php (was appcast.xml) · 6d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/a8e2f3d95527183a3dd97ed965166f1982f6318a): updates · 1w ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/a8e2f3d95527183a3dd97ed965166f1982f6318a): updates · 2w ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8ba82b803f9f3fd6d87f49d71c40e2137b0576d6): fixes · 2w ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/53c58a9108182c539f8377c254860c5770d1ca98): fixes · 2w ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/f02f0beb63f80cd94fb18df02da972f939d5a59e): fixes · 2w ago
@@ -25,15 +25,16 @@
 
 ---
 ## Recently Updated Repos
+- **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
+- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
 - **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
-- **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
-- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
+- Starred [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public)
 - Pushed to [evenwebb/MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)
 - Pushed to [evenwebb/unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)
 - Pushed to [evenwebb/cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)
@@ -41,7 +42,6 @@
 - Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
 - Pushed to [evenwebb/epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)
 - Pushed to [evenwebb/nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts)
-- Pushed to [evenwebb/merlin-cinemas-calendar](https://github.com/evenwebb/merlin-cinemas-calendar)
 
 ---
 # 📊 GitHub Stats
