@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 0 contributions this week · Updated Jul 4, 2026, 01:40 PM
+⭐ 22 stars · 25 repos · 0 contributions this week · Updated Jul 4, 2026, 07:18 PM
 
 ---
 ## Recent Commits
@@ -25,15 +25,16 @@
 
 ---
 ## Recently Updated Repos
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
 - **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[penrice-calendar-scraper](https://github.com/evenwebb/penrice-calendar-scraper)** — Scrapes the school holiday dates from the Penrice Academy we… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
+- Starred [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
 - Starred [tess1o/geopulse](https://github.com/tess1o/geopulse)
 - Starred [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public)
 - Pushed to [evenwebb/MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)
@@ -41,7 +42,6 @@
 - Pushed to [evenwebb/cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)
 - Pushed to [evenwebb/tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)
 - Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
-- Pushed to [evenwebb/epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)
 
 ---
 # 📊 GitHub Stats
