@@ -8,11 +8,11 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 5 contributions this week · Updated Jul 10, 2026, 02:34 PM
+⭐ 22 stars · 25 repos · 5 contributions this week · Updated Jul 10, 2026, 07:37 PM
 
 ---
 ## Recent Commits
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/0fb5bf458357b73ef3683ee59679b6832a12da85): Fix health-check crash + update deprecated actions · 1d ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/0fb5bf458357b73ef3683ee59679b6832a12da85): Fix health-check crash + update deprecated actions · 2d ago
 - [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/25dbe92b34752706a862fdaf118585c8f38c171a): Fix remaining f-string without placeholder in battery_tester · 5d ago
 - [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/9e0e5053aefd55fc02a1d7bd545cef477928e91d): Fix lint errors: f-string placeholders, bare excepts, unused… · 5d ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/6b48f5f1003096a4c5730b7f66a976b2210f91d7): Fix manifest total_profiles count to match actual profiles · 5d ago
@@ -25,11 +25,11 @@
 
 ---
 ## Recently Updated Repos
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
 - **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)** — Community-maintained macOS app update profiles for MacUpdate… · ⭐ 0 · Python
 
 ---
