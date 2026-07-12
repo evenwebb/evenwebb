@@ -8,12 +8,12 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 2 contributions this week · Updated Jul 12, 2026, 01:26 PM
+⭐ 22 stars · 25 repos · 1 contributions this week · Updated Jul 12, 2026, 07:09 PM
 
 ---
 ## Recent Commits
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/0fb5bf458357b73ef3683ee59679b6832a12da85): Fix health-check crash + update deprecated actions · 3d ago
-- [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/25dbe92b34752706a862fdaf118585c8f38c171a): Fix remaining f-string without placeholder in battery_tester · 6d ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/0fb5bf458357b73ef3683ee59679b6832a12da85): Fix health-check crash + update deprecated actions · 4d ago
+- [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/25dbe92b34752706a862fdaf118585c8f38c171a): Fix remaining f-string without placeholder in battery_tester · 1w ago
 - [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/9e0e5053aefd55fc02a1d7bd545cef477928e91d): Fix lint errors: f-string placeholders, bare excepts, unused… · 1w ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/6b48f5f1003096a4c5730b7f66a976b2210f91d7): Fix manifest total_profiles count to match actual profiles · 1w ago
 - [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/fbf2d8a65ccfc9b8b5823ea7ee5ffaec43ccbc01): Remove extraneous f-string prefix in CLI stats output · 1w ago
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
 - **[youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper)** — A small Python utility that reads the subscriptions.csv file… · ⭐ 1 · Python
 - **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 
 ---
 ## Recent Activity
