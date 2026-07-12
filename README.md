@@ -8,15 +8,15 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 5 contributions this week · Updated Jul 11, 2026, 07:08 PM
+⭐ 22 stars · 25 repos · 2 contributions this week · Updated Jul 12, 2026, 03:18 AM
 
 ---
 ## Recent Commits
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/0fb5bf458357b73ef3683ee59679b6832a12da85): Fix health-check crash + update deprecated actions · 3d ago
 - [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/25dbe92b34752706a862fdaf118585c8f38c171a): Fix remaining f-string without placeholder in battery_tester · 6d ago
-- [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/9e0e5053aefd55fc02a1d7bd545cef477928e91d): Fix lint errors: f-string placeholders, bare excepts, unused… · 6d ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/6b48f5f1003096a4c5730b7f66a976b2210f91d7): Fix manifest total_profiles count to match actual profiles · 6d ago
-- [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/fbf2d8a65ccfc9b8b5823ea7ee5ffaec43ccbc01): Remove extraneous f-string prefix in CLI stats output · 6d ago
+- [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/9e0e5053aefd55fc02a1d7bd545cef477928e91d): Fix lint errors: f-string placeholders, bare excepts, unused… · 1w ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/6b48f5f1003096a4c5730b7f66a976b2210f91d7): Fix manifest total_profiles count to match actual profiles · 1w ago
+- [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/fbf2d8a65ccfc9b8b5823ea7ee5ffaec43ccbc01): Remove extraneous f-string prefix in CLI stats output · 1w ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/ec4036db5ef680ef88fc3ba087b5a98223a505dd): Final state: 211/224 healthy (94%) · 2w ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/262e30056d60a99c5f42f80344cbd51f39b47518): Final cleanup: fix WARP Sparkle URL, remove 5 BROKEN + 3 UNT… · 2w ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/d166f4107a1cbf0c0a43553683fe4f82e6242224): Remove 37 unfixable profiles (DMG, dead servers, parse error… · 2w ago
@@ -34,6 +34,7 @@
 
 ---
 ## Recent Activity
+- Starred [fadidevv/keyhunter](https://github.com/fadidevv/keyhunter)
 - Pushed to [evenwebb/MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)
 - Pushed to [evenwebb/Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester)
 - Pushed to [evenwebb/patreon-notifier](https://github.com/evenwebb/patreon-notifier)
@@ -41,7 +42,6 @@
 - Starred [tess1o/geopulse](https://github.com/tess1o/geopulse)
 - Starred [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public)
 - Pushed to [evenwebb/unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)
-- Pushed to [evenwebb/cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)
 
 ---
 # 📊 GitHub Stats
