@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 3 contributions this week · Updated Jul 17, 2026, 07:15 PM
+⭐ 22 stars · 25 repos · 3 contributions this week · Updated Jul 18, 2026, 02:44 AM
 
 ---
 ## Recent Commits
@@ -21,7 +21,7 @@
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/262e30056d60a99c5f42f80344cbd51f39b47518): Final cleanup: fix WARP Sparkle URL, remove 5 BROKEN + 3 UNT… · 3w ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/d166f4107a1cbf0c0a43553683fe4f82e6242224): Remove 37 unfixable profiles (DMG, dead servers, parse error… · 3w ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/a8e2f3d95527183a3dd97ed965166f1982f6318a): updates · 4w ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8ba82b803f9f3fd6d87f49d71c40e2137b0576d6): fixes · 4w ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8ba82b803f9f3fd6d87f49d71c40e2137b0576d6): fixes · Jun 18, 2026
 
 ---
 ## Recently Updated Repos
