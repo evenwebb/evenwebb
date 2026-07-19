@@ -8,15 +8,15 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 3 contributions this week · Updated Jul 18, 2026, 07:09 PM
+⭐ 22 stars · 25 repos · 3 contributions this week · Updated Jul 19, 2026, 03:14 AM
 
 ---
 ## Recent Commits
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/0fb5bf458357b73ef3683ee59679b6832a12da85): Fix health-check crash + update deprecated actions · 1w ago
 - [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/25dbe92b34752706a862fdaf118585c8f38c171a): Fix remaining f-string without placeholder in battery_tester · 1w ago
-- [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/9e0e5053aefd55fc02a1d7bd545cef477928e91d): Fix lint errors: f-string placeholders, bare excepts, unused… · 1w ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/6b48f5f1003096a4c5730b7f66a976b2210f91d7): Fix manifest total_profiles count to match actual profiles · 1w ago
-- [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/fbf2d8a65ccfc9b8b5823ea7ee5ffaec43ccbc01): Remove extraneous f-string prefix in CLI stats output · 1w ago
+- [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/9e0e5053aefd55fc02a1d7bd545cef477928e91d): Fix lint errors: f-string placeholders, bare excepts, unused… · 2w ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/6b48f5f1003096a4c5730b7f66a976b2210f91d7): Fix manifest total_profiles count to match actual profiles · 2w ago
+- [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/fbf2d8a65ccfc9b8b5823ea7ee5ffaec43ccbc01): Remove extraneous f-string prefix in CLI stats output · 2w ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/ec4036db5ef680ef88fc3ba087b5a98223a505dd): Final state: 211/224 healthy (94%) · 3w ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/262e30056d60a99c5f42f80344cbd51f39b47518): Final cleanup: fix WARP Sparkle URL, remove 5 BROKEN + 3 UNT… · 3w ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/d166f4107a1cbf0c0a43553683fe4f82e6242224): Remove 37 unfixable profiles (DMG, dead servers, parse error… · 3w ago
