@@ -8,15 +8,15 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 3 contributions this week · Updated Jul 25, 2026, 08:10 AM
+⭐ 22 stars · 25 repos · 3 contributions this week · Updated Jul 25, 2026, 01:41 PM
 
 ---
 ## Recent Commits
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/3d4e3d003c4a58ea62122639f2d0eda8a91a20c3): Merge branch 'main' of https://github.com/evenwebb/MacUpdate… · 11h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/40ba3f5da806697e72b3e06cc28fdeed41fecb6a): Repair broken profile version checks and remote health tooli… · 11h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/090ba5f86c40ba5f98e5a77518bbf9e56f668bb4): Add installed_version / match / install profile knobs. · 12h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/04d9b69d5f34ce6d1ed64a17d182dbe310462b3c): Note Control D stub plist; version comes from Helpers/ctrld. · 12h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/a98f5a7d8cd6fc2d48e369ff3c0aa9388cd48e83): Treat GitHub API rate limits separately in remote health che… · 18h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/3d4e3d003c4a58ea62122639f2d0eda8a91a20c3): Merge branch 'main' of https://github.com/evenwebb/MacUpdate… · 17h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/40ba3f5da806697e72b3e06cc28fdeed41fecb6a): Repair broken profile version checks and remote health tooli… · 17h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/090ba5f86c40ba5f98e5a77518bbf9e56f668bb4): Add installed_version / match / install profile knobs. · 17h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/04d9b69d5f34ce6d1ed64a17d182dbe310462b3c): Note Control D stub plist; version comes from Helpers/ctrld. · 17h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/a98f5a7d8cd6fc2d48e369ff3c0aa9388cd48e83): Treat GitHub API rate limits separately in remote health che… · 1d ago
 - [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/25dbe92b34752706a862fdaf118585c8f38c171a): Fix remaining f-string without placeholder in battery_tester · 2w ago
 - [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/9e0e5053aefd55fc02a1d7bd545cef477928e91d): Fix lint errors: f-string placeholders, bare excepts, unused… · 2w ago
 - [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/fbf2d8a65ccfc9b8b5823ea7ee5ffaec43ccbc01): Remove extraneous f-string prefix in CLI stats output · 2w ago
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
+- **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
+- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
 - **[MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)** — Community-maintained macOS app update profiles for MacUpdate… · ⭐ 0 · Python
 - **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
-- **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
-- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
