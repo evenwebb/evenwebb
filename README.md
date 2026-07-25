@@ -8,17 +8,17 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 2 contributions this week · Updated Jul 24, 2026, 07:33 PM
+⭐ 22 stars · 25 repos · 3 contributions this week · Updated Jul 25, 2026, 02:53 AM
 
 ---
 ## Recent Commits
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/a98f5a7d8cd6fc2d48e369ff3c0aa9388cd48e83): Treat GitHub API rate limits separately in remote health che… · 6h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/53fa289fc20d3c2288ec112bed420a7a1d3438b1): Clear profile validate warnings; expand alternate bundle IDs… · 6h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/131e0165ab1a23edcd2db4e7d4982b8c0a548ce9): fixes · 6h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/0fb5bf458357b73ef3683ee59679b6832a12da85): Fix health-check crash + update deprecated actions · 2w ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/3d4e3d003c4a58ea62122639f2d0eda8a91a20c3): Merge branch 'main' of https://github.com/evenwebb/MacUpdate… · 6h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/40ba3f5da806697e72b3e06cc28fdeed41fecb6a): Repair broken profile version checks and remote health tooli… · 6h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/090ba5f86c40ba5f98e5a77518bbf9e56f668bb4): Add installed_version / match / install profile knobs. · 6h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/04d9b69d5f34ce6d1ed64a17d182dbe310462b3c): Note Control D stub plist; version comes from Helpers/ctrld. · 6h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/a98f5a7d8cd6fc2d48e369ff3c0aa9388cd48e83): Treat GitHub API rate limits separately in remote health che… · 13h ago
 - [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/25dbe92b34752706a862fdaf118585c8f38c171a): Fix remaining f-string without placeholder in battery_tester · 2w ago
 - [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/9e0e5053aefd55fc02a1d7bd545cef477928e91d): Fix lint errors: f-string placeholders, bare excepts, unused… · 2w ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/6b48f5f1003096a4c5730b7f66a976b2210f91d7): Fix manifest total_profiles count to match actual profiles · 2w ago
 - [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/fbf2d8a65ccfc9b8b5823ea7ee5ffaec43ccbc01): Remove extraneous f-string prefix in CLI stats output · 2w ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/a8e2f3d95527183a3dd97ed965166f1982f6318a): updates · Jun 18, 2026
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8ba82b803f9f3fd6d87f49d71c40e2137b0576d6): fixes · Jun 18, 2026
