@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 24 repos · 0 contributions this week · Updated Jul 30, 2026, 02:37 AM
+⭐ 22 stars · 24 repos · 0 contributions this week · Updated Jul 30, 2026, 08:31 AM
 
 ---
 ## Recent Commits
@@ -25,16 +25,15 @@
 
 ---
 ## Recently Updated Repos
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper)** — A small Python utility that reads the subscriptions.csv file… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
-- Starred [fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats)
 - Starred [hk21x/decide](https://github.com/hk21x/decide)
 - Starred [tomcarman/skystats](https://github.com/tomcarman/skystats)
 - Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
@@ -42,6 +41,7 @@
 - Starred [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering)
 - Starred [ICBizLabs/NyxScope](https://github.com/ICBizLabs/NyxScope)
 - Starred [fadidevv/keyhunter](https://github.com/fadidevv/keyhunter)
+- Pushed to [evenwebb/Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester)
 
 ---
 # 📊 GitHub Stats
