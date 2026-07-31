@@ -8,10 +8,11 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 24 repos · 0 contributions this week · Updated Jul 31, 2026, 03:18 AM
+⭐ 22 stars · 24 repos · 1 contributions this week · Updated Jul 31, 2026, 08:53 AM
 
 ---
 ## Recent Commits
+- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/439c1db9cb7c8dfff5d03889b9575dadce241eda): Fix scraper for redesigned WTW site, add missing imports, up… · 7m ago
 - [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/25dbe92b34752706a862fdaf118585c8f38c171a): Fix remaining f-string without placeholder in battery_tester · 3w ago
 - [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/9e0e5053aefd55fc02a1d7bd545cef477928e91d): Fix lint errors: f-string placeholders, bare excepts, unused… · 3w ago
 - [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/fbf2d8a65ccfc9b8b5823ea7ee5ffaec43ccbc01): Remove extraneous f-string prefix in CLI stats output · 3w ago
@@ -21,27 +22,26 @@
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/f02f0beb63f80cd94fb18df02da972f939d5a59e): fixes · Jun 18, 2026
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/ec4823b9e2fd7ac875637dcda6065cef5af20c64): fixes · Jun 18, 2026
 - [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/a8c02dcf6507cd92622c7c83b9fc7c7b52555b4a): tweaks and updates · Jun 17, 2026
-- [nzbget-user-scripts](https://github.com/evenwebb/nzbget-user-scripts/commit/b4c0672ebcc27b84cbe2312718d04fd63455fe1c): Update nzbget-scripts-updater.sh · Jun 17, 2026
 
 ---
 ## Recently Updated Repos
+- **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · HTML
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
-- **[youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper)** — A small Python utility that reads the subscriptions.csv file… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
+- Opened issue in [evenwebb/wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)
+- Pushed to [evenwebb/wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)
 - Starred [hk21x/decide](https://github.com/hk21x/decide)
 - Starred [tomcarman/skystats](https://github.com/tomcarman/skystats)
 - Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 - Pushed to [evenwebb/epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)
 - Starred [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering)
 - Starred [ICBizLabs/NyxScope](https://github.com/ICBizLabs/NyxScope)
-- Starred [fadidevv/keyhunter](https://github.com/fadidevv/keyhunter)
-- Pushed to [evenwebb/Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester)
 
 ---
 # 📊 GitHub Stats
