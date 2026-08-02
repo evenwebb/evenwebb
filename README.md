@@ -8,40 +8,40 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 25 contributions this week · Updated Aug 2, 2026, 08:27 AM
+⭐ 22 stars · 25 repos · 44 contributions this week · Updated Aug 2, 2026, 12:30 PM
 
 ---
 ## Recent Commits
-- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/13c54b66cc240d05fd5578fa42adb0bc63417d02): Match film detail page design to wtw-cinemas · 1d ago
-- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/f20877b5d6f68da767a8a8865e13f4c90d62fc29): Fix scraper: TMDb optional, missing imports, constants for M… · 1d ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/ebce4c39469b0cf48481487b829df7111fda3b02): Merge branch 'main' of https://github.com/evenwebb/macupdate… · 1d ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/8eb401f60a18e53d00fa681686996534d0088bf4): Fix Blender version check via Homebrew cask API. · 1d ago
-- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/7dc80cec795db117e444b7000900258130b0628b): Fix UnboundLocalError — move crew_html before info_col · 1d ago
-- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/b9ad1418b173e6000ca2c9193f8adcb7b0aedfb5): Redesign detail page: poster left, info right, backdrop edge… · 1d ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/33667ee14e6d75756e4d322f9349c7f415ed9961): Fix GitHub Actions health/validate pipelines and add RightFo… · 1d ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/b543c4f0a1e81a4e14e091698859f323ec2ff94f): checkpoint before checking out main · 1d ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/8a41db2568c6c82089f018b0eca269d4e1ea1f3a): updates · 1d ago
-- [wtw-cinemas](https://github.com/evenwebb/wtw-cinemas/commit/100dc799927f83059456a1903d438e1b2a5d79e9): Clear stale poster cache — all posters now proper TMDb portr… · 1d ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/8a9f0fffc3dd457ebc0f02d8673241b338e1f1a0): Bump GA actions to latest versions · 0m ago
+- [Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester/commit/5d7c78dcb0e4a80b50bc2e677edca64ff2d82510): Bump GA actions to latest versions · 0m ago
+- [patreon-notifier](https://github.com/evenwebb/patreon-notifier/commit/b0f980048099261065abb80a3c5329e3cd20f7c5): Bump GA actions to latest versions · 0m ago
+- [youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper/commit/1fab91106031026790bdc0d483870c19fdad9d75): Bump GA actions to latest versions · 0m ago
+- [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/ffd17ad80f886ab5ff275624e0d3cd7d37fcb9a6): Bump GA actions to latest versions · 0m ago
+- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/a21ffe3b551ecd722d9f1aaa636568dfa8622d56): Bump GA actions to latest versions · 0m ago
+- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/1617f1874e52ba98a3f2d2f7863369e44ddbb20f): Bump GA actions: checkout@v5, setup-python@v7, upload-artifa… · 2m ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/38e58c2f486fdb36ce3cbd8643349112ce392e9e): Add pytest-cov: 67% coverage, 40% CI threshold, 13 tests (wa… · 35m ago
+- [epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper/commit/b50f75c5ec6dd8e3a83d6eb1054c126d93cbd155): Add audit files to .gitignore · 50m ago
+- [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/f94e2c83ce5ef3e0229d0f087432a8d16a01443d): Fix house matching and date parser, update .gitignore · 1h ago
 
 ---
 ## Recently Updated Repos
-- **[MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)** — Community-maintained macOS app update profiles for MacUpdate… · ⭐ 0 · Python
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
+- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
 
 ---
 ## Recent Activity
-- Starred [sanchosk/ZoeELM2MQTT](https://github.com/sanchosk/ZoeELM2MQTT)
-- Pushed to [evenwebb/merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)
-- Starred [hacf-fr/renault-api](https://github.com/hacf-fr/renault-api)
-- Pushed to [evenwebb/MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)
-- Pushed to [evenwebb/wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)
-- Opened issue in [evenwebb/wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)
-- Starred [hk21x/decide](https://github.com/hk21x/decide)
-- Starred [tomcarman/skystats](https://github.com/tomcarman/skystats)
+- Pushed to [evenwebb/Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester)
+- Pushed to [evenwebb/patreon-notifier](https://github.com/evenwebb/patreon-notifier)
+- Pushed to [evenwebb/patreon-video-scraper](https://github.com/evenwebb/patreon-video-scraper)
+- Pushed to [evenwebb/epic-free-games-notifier](https://github.com/evenwebb/epic-free-games-notifier)
+- Pushed to [evenwebb/youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper)
+- Pushed to [evenwebb/evenwebb](https://github.com/evenwebb/evenwebb)
+- Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
+- Pushed to [evenwebb/tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)
 
 ---
 # 📊 GitHub Stats
