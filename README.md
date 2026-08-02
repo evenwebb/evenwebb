@@ -8,11 +8,11 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 25 contributions this week · Updated Aug 1, 2026, 07:12 PM
+⭐ 22 stars · 25 repos · 25 contributions this week · Updated Aug 2, 2026, 03:17 AM
 
 ---
 ## Recent Commits
-- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/13c54b66cc240d05fd5578fa42adb0bc63417d02): Match film detail page design to wtw-cinemas · 21h ago
+- [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/13c54b66cc240d05fd5578fa42adb0bc63417d02): Match film detail page design to wtw-cinemas · 1d ago
 - [merlin-cinemas](https://github.com/evenwebb/merlin-cinemas/commit/f20877b5d6f68da767a8a8865e13f4c90d62fc29): Fix scraper: TMDb optional, missing imports, constants for M… · 1d ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/ebce4c39469b0cf48481487b829df7111fda3b02): Merge branch 'main' of https://github.com/evenwebb/macupdate… · 1d ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/8eb401f60a18e53d00fa681686996534d0088bf4): Fix Blender version check via Homebrew cask API. · 1d ago
