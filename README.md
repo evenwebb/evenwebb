@@ -8,12 +8,12 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 49 contributions this week · Updated Aug 5, 2026, 07:39 PM
+⭐ 22 stars · 25 repos · 49 contributions this week · Updated Aug 6, 2026, 02:48 AM
 
 ---
 ## Recent Commits
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/74ffe56ee424876878d12a1b4be191b5880b2a7f): Merge branch 'main' of https://github.com/evenwebb/macupdate… · 3h ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/1941fc33a7a6058646c1354341671fffdaf88a02): add support for WhatCable · 3h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/74ffe56ee424876878d12a1b4be191b5880b2a7f): Merge branch 'main' of https://github.com/evenwebb/macupdate… · 10h ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/1941fc33a7a6058646c1354341671fffdaf88a02): add support for WhatCable · 10h ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/0594a2f236f7e63ad1c5285efea2e35c92b899a8): Unpin version upper bounds where safe — use >= minimums · 3d ago
 - [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/d3b88c90551b56667f7f221fa44dda2734495427): Unpin version upper bounds where safe — use >= minimums · 3d ago
 - [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/5db1fb6539c1d69076aa33ca774a595b01481d70): Unpin version upper bounds where safe — use >= minimums · 3d ago
