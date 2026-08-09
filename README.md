@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 24 contributions this week · Updated Aug 8, 2026, 06:41 PM
+⭐ 22 stars · 25 repos · 24 contributions this week · Updated Aug 9, 2026, 01:56 AM
 
 ---
 ## Recent Commits
@@ -34,14 +34,14 @@
 
 ---
 ## Recent Activity
+- Starred [scryer-media/scryer](https://github.com/scryer-media/scryer)
+- Starred [scryer-media/weaver](https://github.com/scryer-media/weaver)
 - Pushed to [evenwebb/MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)
 - Starred [DavidKrGH/Dockkeep](https://github.com/DavidKrGH/Dockkeep)
 - Pushed to [evenwebb/github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)
 - Pushed to [evenwebb/tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)
 - Pushed to [evenwebb/cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)
 - Pushed to [evenwebb/unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)
-- Pushed to [evenwebb/Windows-Laptop-Battery-Tester](https://github.com/evenwebb/Windows-Laptop-Battery-Tester)
-- Pushed to [evenwebb/patreon-notifier](https://github.com/evenwebb/patreon-notifier)
 
 ---
 # 📊 GitHub Stats
