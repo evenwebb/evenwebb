@@ -8,12 +8,12 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 1 contributions this week · Updated Aug 9, 2026, 12:56 PM
+⭐ 22 stars · 25 repos · 1 contributions this week · Updated Aug 9, 2026, 06:45 PM
 
 ---
 ## Recent Commits
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/74ffe56ee424876878d12a1b4be191b5880b2a7f): Merge branch 'main' of https://github.com/evenwebb/macupdate… · 3d ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/1941fc33a7a6058646c1354341671fffdaf88a02): add support for WhatCable · 3d ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/74ffe56ee424876878d12a1b4be191b5880b2a7f): Merge branch 'main' of https://github.com/evenwebb/macupdate… · 4d ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/1941fc33a7a6058646c1354341671fffdaf88a02): add support for WhatCable · 4d ago
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/0594a2f236f7e63ad1c5285efea2e35c92b899a8): Unpin version upper bounds where safe — use >= minimums · 1w ago
 - [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/d3b88c90551b56667f7f221fa44dda2734495427): Unpin version upper bounds where safe — use >= minimums · 1w ago
 - [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/5db1fb6539c1d69076aa33ca774a595b01481d70): Unpin version upper bounds where safe — use >= minimums · 1w ago
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
 - **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 5 · HTML
 
 ---
 ## Recent Activity
