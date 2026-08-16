@@ -8,12 +8,12 @@
 </div>
 
 ## Quick Stats
-⭐ 21 stars · 25 repos · 2 contributions this week · Updated Aug 16, 2026, 01:33 AM
+⭐ 21 stars · 25 repos · 2 contributions this week · Updated Aug 16, 2026, 06:43 AM
 
 ---
 ## Recent Commits
-- [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/f559815a01b01db38c621ff0a8cbf7b79d7d7649): Add the Order Marks 2.2.0 Chrome package. · 10h ago
-- [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/8a8d2d641d117abd7bdf39125d4de2b990984671): Disclose that Order Marks may read other pages of the open o… · 10h ago
+- [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/f559815a01b01db38c621ff0a8cbf7b79d7d7649): Add the Order Marks 2.2.0 Chrome package. · 15h ago
+- [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/8a8d2d641d117abd7bdf39125d4de2b990984671): Disclose that Order Marks may read other pages of the open o… · 15h ago
 - [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/b57b4bc60648599661d42a302132d5ac612720a1): Publish Order Marks package and support files · 1d ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/74ffe56ee424876878d12a1b4be191b5880b2a7f): Merge branch 'main' of https://github.com/evenwebb/macupdate… · 1w ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/1941fc33a7a6058646c1354341671fffdaf88a02): add support for WhatCable · 1w ago
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[order-marks-downloads](https://github.com/evenwebb/order-marks-downloads)** — Order Marks downloads, privacy policy and support · ⭐ 0 · N/A
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
 - **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
