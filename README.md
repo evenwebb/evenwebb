@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 9 contributions this week · Updated Sep 3, 2026, 10:53 AM
+⭐ 22 stars · 25 repos · 5 contributions this week · Updated Sep 3, 2026, 04:03 PM
 
 ---
 ## Recent Commits
@@ -25,15 +25,16 @@
 
 ---
 ## Recently Updated Repos
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 6 · HTML
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
+- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
+- Starred [ovexro/dockpanel](https://github.com/ovexro/dockpanel)
 - Starred [DeliciousMeatPop/ARMGDDNBrowser](https://github.com/DeliciousMeatPop/ARMGDDNBrowser)
 - Pushed to [evenwebb/wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)
 - Pushed to [evenwebb/merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)
@@ -41,7 +42,6 @@
 - Starred [safarsin/AutoRewarder](https://github.com/safarsin/AutoRewarder)
 - Starred [User0332/rewards-farmer](https://github.com/User0332/rewards-farmer)
 - Pushed to [evenwebb/stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)
-- Pushed to [evenwebb/youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper)
 
 ---
 # 📊 GitHub Stats
