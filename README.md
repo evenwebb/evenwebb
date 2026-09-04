@@ -8,15 +8,15 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 2 contributions this week · Updated Sep 4, 2026, 03:59 PM
+⭐ 22 stars · 25 repos · 0 contributions this week · Updated Sep 4, 2026, 08:29 PM
 
 ---
 ## Recent Commits
 - [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/f559815a01b01db38c621ff0a8cbf7b79d7d7649): Add the Order Marks 2.2.0 Chrome package. · 2w ago
 - [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/8a8d2d641d117abd7bdf39125d4de2b990984671): Disclose that Order Marks may read other pages of the open o… · 2w ago
-- [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/b57b4bc60648599661d42a302132d5ac612720a1): Publish Order Marks package and support files · 2w ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/74ffe56ee424876878d12a1b4be191b5880b2a7f): Merge branch 'main' of https://github.com/evenwebb/macupdate… · 4w ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/1941fc33a7a6058646c1354341671fffdaf88a02): add support for WhatCable · 4w ago
+- [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/b57b4bc60648599661d42a302132d5ac612720a1): Publish Order Marks package and support files · 3w ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/74ffe56ee424876878d12a1b4be191b5880b2a7f): Merge branch 'main' of https://github.com/evenwebb/macupdate… · Aug 5, 2026
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/1941fc33a7a6058646c1354341671fffdaf88a02): add support for WhatCable · Aug 5, 2026
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/0594a2f236f7e63ad1c5285efea2e35c92b899a8): Unpin version upper bounds where safe — use >= minimums · Aug 2, 2026
 - [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/d3b88c90551b56667f7f221fa44dda2734495427): Unpin version upper bounds where safe — use >= minimums · Aug 2, 2026
 - [cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator/commit/5db1fb6539c1d69076aa33ca774a595b01481d70): Unpin version upper bounds where safe — use >= minimums · Aug 2, 2026
