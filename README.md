@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 25 repos · 0 contributions this week · Updated Sep 14, 2026, 04:04 AM
+⭐ 22 stars · 25 repos · 0 contributions this week · Updated Sep 14, 2026, 12:12 PM
 
 ---
 ## Recent Commits
@@ -25,15 +25,16 @@
 
 ---
 ## Recently Updated Repos
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 6 · HTML
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
-- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
-- **[youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper)** — A small Python utility that reads the subscriptions.csv file… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
+- Starred [modtesla3uk-cmd/mt3uk](https://github.com/modtesla3uk-cmd/mt3uk)
 - Starred [codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)
 - Starred [HagaiHen/facebook-mcp-server](https://github.com/HagaiHen/facebook-mcp-server)
 - Starred [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server)
@@ -41,7 +42,6 @@
 - Starred [DeliciousMeatPop/ARMGDDNBrowser](https://github.com/DeliciousMeatPop/ARMGDDNBrowser)
 - Pushed to [evenwebb/wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)
 - Pushed to [evenwebb/merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)
-- Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 
 ---
 # 📊 GitHub Stats
