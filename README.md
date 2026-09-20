@@ -8,13 +8,13 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 26 repos · 1 contributions this week · Updated Sep 20, 2026, 10:55 AM
+⭐ 22 stars · 26 repos · 1 contributions this week · Updated Sep 20, 2026, 03:42 PM
 
 ---
 ## Recent Commits
 - [shlott-ics-feed](https://github.com/evenwebb/shlott-ics-feed/commit/e44e73806149d4d204352167988b9a479816368d): Add Shlott ICS feed scraper. · 5d ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/a9960dd152cbe8ffaf870ef6ed0263e098b02cd3): Add Ollama profile via GitHub Releases. · 5d ago
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/d85136a551d2bfd0d987fa06fcee934c82a93975): Fix Transmit health checks and skip apps with downed sites. · 5d ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/a9960dd152cbe8ffaf870ef6ed0263e098b02cd3): Add Ollama profile via GitHub Releases. · 6d ago
+- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/d85136a551d2bfd0d987fa06fcee934c82a93975): Fix Transmit health checks and skip apps with downed sites. · 6d ago
 - [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/f559815a01b01db38c621ff0a8cbf7b79d7d7649): Add the Order Marks 2.2.0 Chrome package. · Aug 15, 2026
 - [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/8a8d2d641d117abd7bdf39125d4de2b990984671): Disclose that Order Marks may read other pages of the open o… · Aug 15, 2026
 - [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/b57b4bc60648599661d42a302132d5ac612720a1): Publish Order Marks package and support files · Aug 14, 2026
@@ -25,12 +25,12 @@
 
 ---
 ## Recently Updated Repos
-- **[youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper)** — A small Python utility that reads the subscriptions.csv file… · ⭐ 1 · Python
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
-- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 6 · HTML
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
+- **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
+- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
+- **[youtube-channel-link-scraper](https://github.com/evenwebb/youtube-channel-link-scraper)** — A small Python utility that reads the subscriptions.csv file… · ⭐ 1 · Python
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
