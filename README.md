@@ -8,10 +8,11 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 26 repos · 0 contributions this week · Updated Sep 30, 2026, 04:44 AM
+⭐ 22 stars · 26 repos · 0 contributions this week · Updated Sep 30, 2026, 12:09 PM
 
 ---
 ## Recent Commits
+- [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/d9b50cfbeab0c22b56188fa3ecdc33997acc3dd1): Publish Chrome downloads through 2.3.2 · 1h ago
 - [shlott-ics-feed](https://github.com/evenwebb/shlott-ics-feed/commit/e44e73806149d4d204352167988b9a479816368d): Add Shlott ICS feed scraper. · 2w ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/a9960dd152cbe8ffaf870ef6ed0263e098b02cd3): Add Ollama profile via GitHub Releases. · 2w ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/d85136a551d2bfd0d987fa06fcee934c82a93975): Fix Transmit health checks and skip apps with downed sites. · 2w ago
@@ -21,16 +22,15 @@
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/74ffe56ee424876878d12a1b4be191b5880b2a7f): Merge branch 'main' of https://github.com/evenwebb/macupdate… · Aug 5, 2026
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/1941fc33a7a6058646c1354341671fffdaf88a02): add support for WhatCable · Aug 5, 2026
 - [github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker/commit/0594a2f236f7e63ad1c5285efea2e35c92b899a8): Unpin version upper bounds where safe — use >= minimums · Aug 2, 2026
-- [tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar/commit/d3b88c90551b56667f7f221fa44dda2734495427): Unpin version upper bounds where safe — use >= minimums · Aug 2, 2026
 
 ---
 ## Recently Updated Repos
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
+- **[order-marks-downloads](https://github.com/evenwebb/order-marks-downloads)** — Order Marks downloads, privacy policy and support · ⭐ 0 · N/A
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 6 · HTML
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
-- **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
-- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
