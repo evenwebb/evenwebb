@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 26 repos · 1 contributions this week · Updated Oct 2, 2026, 12:07 PM
+⭐ 22 stars · 26 repos · 1 contributions this week · Updated Oct 2, 2026, 09:58 PM
 
 ---
 ## Recent Commits
@@ -25,23 +25,23 @@
 
 ---
 ## Recently Updated Repos
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 6 · HTML
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
+- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
+- Starred [ruspea/MeshDash](https://github.com/ruspea/MeshDash)
+- Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
 - Pushed to [evenwebb/order-marks-downloads](https://github.com/evenwebb/order-marks-downloads)
 - Starred [rleeon/hoard](https://github.com/rleeon/hoard)
 - Starred [santonoreg/weather_forecast](https://github.com/santonoreg/weather_forecast)
 - Starred [agillis/esphome-modular-lvgl-buttons](https://github.com/agillis/esphome-modular-lvgl-buttons)
 - Starred [piotrkochan/homeassistant-minidisplay](https://github.com/piotrkochan/homeassistant-minidisplay)
 - Pushed to [evenwebb/MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)
-- Starred [modtesla3uk-cmd/mt3uk](https://github.com/modtesla3uk-cmd/mt3uk)
-- Starred [codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)
 
 ---
 # 📊 GitHub Stats
