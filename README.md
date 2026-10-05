@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 26 repos · 1 contributions this week · Updated Oct 5, 2026, 02:00 PM
+⭐ 22 stars · 26 repos · 1 contributions this week · Updated Oct 5, 2026, 11:52 PM
 
 ---
 ## Recent Commits
@@ -25,8 +25,8 @@
 
 ---
 ## Recently Updated Repos
-- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
-- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
+- **[MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)** — Community-maintained macOS app update profiles for MacUpdate… · ⭐ 0 · Python
+- **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 6 · HTML
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
 - **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
@@ -34,14 +34,14 @@
 
 ---
 ## Recent Activity
+- Starred [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+- Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+- Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- Starred [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
+- Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
 - Starred [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal)
 - Starred [Igorcbraz/GitAscii](https://github.com/Igorcbraz/GitAscii)
 - Starred [joypad-ai/joypad-os](https://github.com/joypad-ai/joypad-os)
-- Starred [ruspea/MeshDash](https://github.com/ruspea/MeshDash)
-- Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
-- Pushed to [evenwebb/order-marks-downloads](https://github.com/evenwebb/order-marks-downloads)
-- Starred [rleeon/hoard](https://github.com/rleeon/hoard)
-- Starred [santonoreg/weather_forecast](https://github.com/santonoreg/weather_forecast)
 
 ---
 # 📊 GitHub Stats
