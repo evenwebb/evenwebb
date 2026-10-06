@@ -8,12 +8,12 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 26 repos · 1 contributions this week · Updated Oct 6, 2026, 05:33 AM
+⭐ 22 stars · 26 repos · 3 contributions this week · Updated Oct 6, 2026, 01:00 PM
 
 ---
 ## Recent Commits
-- [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/d9b50cfbeab0c22b56188fa3ecdc33997acc3dd1): Publish Chrome downloads through 2.3.2 · 5d ago
-- [shlott-ics-feed](https://github.com/evenwebb/shlott-ics-feed/commit/e44e73806149d4d204352167988b9a479816368d): Add Shlott ICS feed scraper. · 2w ago
+- [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/d9b50cfbeab0c22b56188fa3ecdc33997acc3dd1): Publish Chrome downloads through 2.3.2 · 6d ago
+- [shlott-ics-feed](https://github.com/evenwebb/shlott-ics-feed/commit/e44e73806149d4d204352167988b9a479816368d): Add Shlott ICS feed scraper. · 3w ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/a9960dd152cbe8ffaf870ef6ed0263e098b02cd3): Add Ollama profile via GitHub Releases. · 3w ago
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/d85136a551d2bfd0d987fa06fcee934c82a93975): Fix Transmit health checks and skip apps with downed sites. · 3w ago
 - [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/f559815a01b01db38c621ff0a8cbf7b79d7d7649): Add the Order Marks 2.2.0 Chrome package. · Aug 15, 2026
@@ -25,23 +25,23 @@
 
 ---
 ## Recently Updated Repos
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)** — Community-maintained macOS app update profiles for MacUpdate… · ⭐ 0 · Python
+- **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 6 · HTML
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
-- **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
-- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
+- Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
+- Pushed to [evenwebb/MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles)
+- Starred [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)
 - Starred [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 - Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 - Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 - Starred [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
 - Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
-- Starred [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal)
-- Starred [Igorcbraz/GitAscii](https://github.com/Igorcbraz/GitAscii)
-- Starred [joypad-ai/joypad-os](https://github.com/joypad-ai/joypad-os)
 
 ---
 # 📊 GitHub Stats
