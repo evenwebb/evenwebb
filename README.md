@@ -8,13 +8,13 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 26 repos · 2 contributions this week · Updated Oct 24, 2026, 08:26 PM
+⭐ 22 stars · 26 repos · 2 contributions this week · Updated Oct 25, 2026, 03:51 AM
 
 ---
 ## Recent Commits
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/66dffc9bcf4d5345739a8ace2cf45f9e09a5a7d6): Keep Path Guard in the scripts list · 2d ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/2c746a28cb2647de7bc4c018e680f63801c4cc67): Harden Unraid scripts and sync plugin folders · 2d ago
-- [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/8f04f119380bc7e17db3817af8313bcf693c8868): Improve coupon scanning and claim reliability · 2d ago
+- [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/8f04f119380bc7e17db3817af8313bcf693c8868): Improve coupon scanning and claim reliability · 3d ago
 - [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/d9b50cfbeab0c22b56188fa3ecdc33997acc3dd1): Publish Chrome downloads through 2.3.2 · 3w ago
 - [shlott-ics-feed](https://github.com/evenwebb/shlott-ics-feed/commit/e44e73806149d4d204352167988b9a479816368d): Add Shlott ICS feed scraper. · Sep 15, 2026
 - [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/a9960dd152cbe8ffaf870ef6ed0263e098b02cd3): Add Ollama profile via GitHub Releases. · Sep 14, 2026
