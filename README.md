@@ -8,32 +8,33 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 26 repos · 0 contributions this week · Updated Nov 12, 2026, 02:50 PM
+⭐ 22 stars · 27 repos · 0 contributions this week · Updated Nov 12, 2026, 11:19 PM
 
 ---
 ## Recent Commits
+- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/434114e8f862a49da3faec9171bdbc40d2440566): Update install wording for the public repository · 1h ago
+- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/2c2e5df2ce907fd1704083ca160c83105dafc8c3): Accept flexible input layouts and switch to GPLv3 · 7h ago
+- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/00e256c9afaa141e4b62926a3bdf804a5640031b): Stop retrying authentication failures · 9h ago
+- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/d713076c096ea99e5d310fabb377eb66d06a2450): Source the package version from the module · 9h ago
+- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/26ccb921200c1db8b92d66e0dd8c08f24d994b90): Initial release of Arc Timeline to Reitti · 9h ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/66dffc9bcf4d5345739a8ace2cf45f9e09a5a7d6): Keep Path Guard in the scripts list · 3w ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/2c746a28cb2647de7bc4c018e680f63801c4cc67): Harden Unraid scripts and sync plugin folders · 3w ago
 - [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/8f04f119380bc7e17db3817af8313bcf693c8868): Improve coupon scanning and claim reliability · 3w ago
 - [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/d9b50cfbeab0c22b56188fa3ecdc33997acc3dd1): Publish Chrome downloads through 2.3.2 · Sep 30, 2026
 - [shlott-ics-feed](https://github.com/evenwebb/shlott-ics-feed/commit/e44e73806149d4d204352167988b9a479816368d): Add Shlott ICS feed scraper. · Sep 15, 2026
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/a9960dd152cbe8ffaf870ef6ed0263e098b02cd3): Add Ollama profile via GitHub Releases. · Sep 14, 2026
-- [MacUpdater-Profiles](https://github.com/evenwebb/MacUpdater-Profiles/commit/d85136a551d2bfd0d987fa06fcee934c82a93975): Fix Transmit health checks and skip apps with downed sites. · Sep 14, 2026
-- [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/f559815a01b01db38c621ff0a8cbf7b79d7d7649): Add the Order Marks 2.2.0 Chrome package. · Aug 15, 2026
-- [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/8a8d2d641d117abd7bdf39125d4de2b990984671): Disclose that Order Marks may read other pages of the open o… · Aug 15, 2026
-- [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/b57b4bc60648599661d42a302132d5ac612720a1): Publish Order Marks package and support files · Aug 14, 2026
 
 ---
 ## Recently Updated Repos
+- **[arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti)** — Convert Arc Timeline 4 weekly exports into Reitti-compatible… · ⭐ 0 · Python
+- **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 6 · HTML
 - **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 - **[merlin-cinemas](https://github.com/evenwebb/merlin-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, specia… · ⭐ 0 · Python
-- **[wtw-cinemas](https://github.com/evenwebb/wtw-cinemas)** — All-in-one cinema tracker for Cornwall - now showing, coming… · ⭐ 0 · Python
-- **[tesla-owners-club-uk-events-calendar](https://github.com/evenwebb/tesla-owners-club-uk-events-calendar)** — iCalendar feed for Tesla Owners UK events: track days, meetu… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
+- Released [evenwebb/arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti)
 - Starred [dedicatedcode/reitti](https://github.com/dedicatedcode/reitti)
 - Starred [gordon-williams/arc-timeline-reader](https://github.com/gordon-williams/arc-timeline-reader)
 - Starred [netbirdio/netbird](https://github.com/netbirdio/netbird)
@@ -41,7 +42,6 @@
 - Pushed to [evenwebb/unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)
 - Pushed to [evenwebb/AliClaimer](https://github.com/evenwebb/AliClaimer)
 - Starred [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
-- Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
 
 ---
 # 📊 GitHub Stats
