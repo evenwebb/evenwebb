@@ -8,15 +8,15 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 27 repos · 0 contributions this week · Updated Nov 14, 2026, 01:12 PM
+⭐ 22 stars · 27 repos · 1 contributions this week · Updated Nov 14, 2026, 10:06 PM
 
 ---
 ## Recent Commits
-- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/434114e8f862a49da3faec9171bdbc40d2440566): Update install wording for the public repository · 1d ago
-- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/2c2e5df2ce907fd1704083ca160c83105dafc8c3): Accept flexible input layouts and switch to GPLv3 · 1d ago
-- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/00e256c9afaa141e4b62926a3bdf804a5640031b): Stop retrying authentication failures · 1d ago
-- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/d713076c096ea99e5d310fabb377eb66d06a2450): Source the package version from the module · 1d ago
-- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/26ccb921200c1db8b92d66e0dd8c08f24d994b90): Initial release of Arc Timeline to Reitti · 1d ago
+- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/434114e8f862a49da3faec9171bdbc40d2440566): Update install wording for the public repository · 2d ago
+- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/2c2e5df2ce907fd1704083ca160c83105dafc8c3): Accept flexible input layouts and switch to GPLv3 · 2d ago
+- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/00e256c9afaa141e4b62926a3bdf804a5640031b): Stop retrying authentication failures · 2d ago
+- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/d713076c096ea99e5d310fabb377eb66d06a2450): Source the package version from the module · 2d ago
+- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/26ccb921200c1db8b92d66e0dd8c08f24d994b90): Initial release of Arc Timeline to Reitti · 2d ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/66dffc9bcf4d5345739a8ace2cf45f9e09a5a7d6): Keep Path Guard in the scripts list · 3w ago
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/2c746a28cb2647de7bc4c018e680f63801c4cc67): Harden Unraid scripts and sync plugin folders · 3w ago
 - [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/8f04f119380bc7e17db3817af8313bcf693c8868): Improve coupon scanning and claim reliability · 3w ago
@@ -34,6 +34,7 @@
 
 ---
 ## Recent Activity
+- Pushed to [evenwebb/arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti)
 - Starred [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen)
 - Released [evenwebb/arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti)
 - Starred [dedicatedcode/reitti](https://github.com/dedicatedcode/reitti)
@@ -41,7 +42,6 @@
 - Starred [netbirdio/netbird](https://github.com/netbirdio/netbird)
 - Starred [marvinvr/docktail](https://github.com/marvinvr/docktail)
 - Pushed to [evenwebb/unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)
-- Pushed to [evenwebb/AliClaimer](https://github.com/evenwebb/AliClaimer)
 
 ---
 # 📊 GitHub Stats
