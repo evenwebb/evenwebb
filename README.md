@@ -8,7 +8,7 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 27 repos · 0 contributions this week · Updated Nov 13, 2026, 11:22 PM
+⭐ 22 stars · 27 repos · 0 contributions this week · Updated Nov 14, 2026, 05:35 AM
 
 ---
 ## Recent Commits
@@ -34,6 +34,7 @@
 
 ---
 ## Recent Activity
+- Starred [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen)
 - Released [evenwebb/arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti)
 - Starred [dedicatedcode/reitti](https://github.com/dedicatedcode/reitti)
 - Starred [gordon-williams/arc-timeline-reader](https://github.com/gordon-williams/arc-timeline-reader)
@@ -41,7 +42,6 @@
 - Starred [marvinvr/docktail](https://github.com/marvinvr/docktail)
 - Pushed to [evenwebb/unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts)
 - Pushed to [evenwebb/AliClaimer](https://github.com/evenwebb/AliClaimer)
-- Starred [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
 
 ---
 # 📊 GitHub Stats
