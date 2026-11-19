@@ -8,17 +8,17 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 26 repos · 3 contributions this week · Updated Nov 19, 2026, 12:01 AM
+⭐ 22 stars · 26 repos · 3 contributions this week · Updated Nov 19, 2026, 03:27 PM
 
 ---
 ## Recent Commits
 - [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/434114e8f862a49da3faec9171bdbc40d2440566): Update install wording for the public repository · 6d ago
 - [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/2c2e5df2ce907fd1704083ca160c83105dafc8c3): Accept flexible input layouts and switch to GPLv3 · 6d ago
-- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/00e256c9afaa141e4b62926a3bdf804a5640031b): Stop retrying authentication failures · 6d ago
-- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/d713076c096ea99e5d310fabb377eb66d06a2450): Source the package version from the module · 6d ago
-- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/26ccb921200c1db8b92d66e0dd8c08f24d994b90): Initial release of Arc Timeline to Reitti · 6d ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/66dffc9bcf4d5345739a8ace2cf45f9e09a5a7d6): Keep Path Guard in the scripts list · 3w ago
-- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/2c746a28cb2647de7bc4c018e680f63801c4cc67): Harden Unraid scripts and sync plugin folders · 3w ago
+- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/00e256c9afaa141e4b62926a3bdf804a5640031b): Stop retrying authentication failures · 1w ago
+- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/d713076c096ea99e5d310fabb377eb66d06a2450): Source the package version from the module · 1w ago
+- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/26ccb921200c1db8b92d66e0dd8c08f24d994b90): Initial release of Arc Timeline to Reitti · 1w ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/66dffc9bcf4d5345739a8ace2cf45f9e09a5a7d6): Keep Path Guard in the scripts list · 4w ago
+- [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/2c746a28cb2647de7bc4c018e680f63801c4cc67): Harden Unraid scripts and sync plugin folders · 4w ago
 - [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/8f04f119380bc7e17db3817af8313bcf693c8868): Improve coupon scanning and claim reliability · 4w ago
 - [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/d9b50cfbeab0c22b56188fa3ecdc33997acc3dd1): Publish Chrome downloads through 2.3.2 · Sep 30, 2026
 - [shlott-ics-feed](https://github.com/evenwebb/shlott-ics-feed/commit/e44e73806149d4d204352167988b9a479816368d): Add Shlott ICS feed scraper. · Sep 15, 2026
