@@ -8,11 +8,11 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 26 repos · 0 contributions this week · Updated Nov 26, 2026, 09:07 PM
+⭐ 22 stars · 26 repos · 0 contributions this week · Updated Nov 27, 2026, 07:27 AM
 
 ---
 ## Recent Commits
-- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/434114e8f862a49da3faec9171bdbc40d2440566): Update install wording for the public repository · 1w ago
+- [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/434114e8f862a49da3faec9171bdbc40d2440566): Update install wording for the public repository · 2w ago
 - [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/2c2e5df2ce907fd1704083ca160c83105dafc8c3): Accept flexible input layouts and switch to GPLv3 · 2w ago
 - [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/00e256c9afaa141e4b62926a3bdf804a5640031b): Stop retrying authentication failures · 2w ago
 - [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/d713076c096ea99e5d310fabb377eb66d06a2450): Source the package version from the module · 2w ago
