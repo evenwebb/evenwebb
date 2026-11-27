@@ -8,10 +8,11 @@
 </div>
 
 ## Quick Stats
-⭐ 22 stars · 26 repos · 0 contributions this week · Updated Nov 27, 2026, 07:27 AM
+⭐ 22 stars · 27 repos · 0 contributions this week · Updated Nov 27, 2026, 08:51 PM
 
 ---
 ## Recent Commits
+- [aliexpress-listing-scraper](https://github.com/evenwebb/aliexpress-listing-scraper/commit/51ff69d076a199a7a51a9c2a928be106fac749cb): Initial commit. · 3h ago
 - [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/434114e8f862a49da3faec9171bdbc40d2440566): Update install wording for the public repository · 2w ago
 - [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/2c2e5df2ce907fd1704083ca160c83105dafc8c3): Accept flexible input layouts and switch to GPLv3 · 2w ago
 - [arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti/commit/00e256c9afaa141e4b62926a3bdf804a5640031b): Stop retrying authentication failures · 2w ago
@@ -21,16 +22,15 @@
 - [unraid-user-scripts](https://github.com/evenwebb/unraid-user-scripts/commit/2c746a28cb2647de7bc4c018e680f63801c4cc67): Harden Unraid scripts and sync plugin folders · Oct 22, 2026
 - [AliClaimer](https://github.com/evenwebb/AliClaimer/commit/8f04f119380bc7e17db3817af8313bcf693c8868): Improve coupon scanning and claim reliability · Oct 21, 2026
 - [order-marks-downloads](https://github.com/evenwebb/order-marks-downloads/commit/d9b50cfbeab0c22b56188fa3ecdc33997acc3dd1): Publish Chrome downloads through 2.3.2 · Sep 30, 2026
-- [shlott-ics-feed](https://github.com/evenwebb/shlott-ics-feed/commit/e44e73806149d4d204352167988b9a479816368d): Add Shlott ICS feed scraper. · Sep 15, 2026
 
 ---
 ## Recently Updated Repos
+- **[aliexpress-listing-scraper](https://github.com/evenwebb/aliexpress-listing-scraper)** — Save an AliExpress item page to a folder: title, price, spec… · ⭐ 0 · Python
 - **[patreon-video-scraper](https://github.com/evenwebb/patreon-video-scraper)** — A Python tool to scrape Patreon posts and extract video URLs… · ⭐ 2 · Python
 - **[arc-timeline-to-reitti](https://github.com/evenwebb/arc-timeline-to-reitti)** — Convert Arc Timeline 4 weekly exports into Reitti-compatible… · ⭐ 0 · Python
 - **[cornwall-waste-collection-calendar-generator](https://github.com/evenwebb/cornwall-waste-collection-calendar-generator)** — This project fetches upcoming waste collection dates from th… · ⭐ 1 · Python
 - **[github-actions-usage-tracker](https://github.com/evenwebb/github-actions-usage-tracker)** — Track your Actions usage across all repos. See minutes consu… · ⭐ 1 · Python
 - **[epic-free-games-scraper](https://github.com/evenwebb/epic-free-games-scraper)** — A complete system for tracking Epic Games Store free games s… · ⭐ 6 · HTML
-- **[stmewan-parish-council-calendar](https://github.com/evenwebb/stmewan-parish-council-calendar)** — Scrapes the meeting dates from the St Mewan Parish Council w… · ⭐ 1 · Python
 
 ---
 ## Recent Activity
